@@ -1,0 +1,20 @@
+{
+  "fitur_cols": [
+    "avg_rainfall",
+    "hujan_lag1",
+    "hujan_lag3",
+    "hujan_lag7",
+    "rolling_avg_3",
+    "rolling_avg_7",
+    "rolling_avg_14",
+    "avg_temperature",
+    "soil_moisture",
+    "slope",
+    "ndvi",
+    "musim_encoded"
+  ],
+  "window": 7,
+  "accuracy": 0.8475247524752475,
+  "f1": 0.5352112676056338,
+  "auc": 0.9316437040008209
+}

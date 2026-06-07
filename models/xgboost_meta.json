@@ -1,0 +1,22 @@
+{
+  "fitur_cols": [
+    "avg_rainfall",
+    "max_rainfall",
+    "rolling_avg_3",
+    "rolling_avg_7",
+    "elevation",
+    "slope",
+    "ndvi",
+    "soil_moisture",
+    "musim_encoded",
+    "hujan_lag1",
+    "hujan_lag3",
+    "risiko_index"
+  ],
+  "accuracy": 0.9465,
+  "f1": 0.9369,
+  "auc_roc": 0.983,
+  "avg_precision": 0.9838,
+  "cv_auc_mean": 0.9839,
+  "cv_auc_std": 0.002
+}

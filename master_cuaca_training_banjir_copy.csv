@@ -1,0 +1,566 @@
+﻿provinsi,kota_kabupaten,kecamatan,kelurahan_desa,latitude,longitude,waktu_lokal,suhu_celcius,kelembapan_persen,curah_hujan_mm,kondisi_cuaca,kecepatan_angin_kmh,kategori_wilayah,label_banjir
+Jawa Tengah,Banjarnegara,Susukan,Berta,-7.5010278198,109.442332895,2026-03-31 17:00:00,25,90,2.0,Hujan Ringan,1.8,Banjarnegara - Batur,0
+Jawa Tengah,Banjarnegara,Susukan,Berta,-7.5010278198,109.442332895,2026-03-31 20:00:00,24,94,0.2,Berawan,0.9,Banjarnegara - Batur,0
+Jawa Tengah,Banjarnegara,Susukan,Berta,-7.5010278198,109.442332895,2026-03-31 23:00:00,23,95,0.0,Cerah Berawan,0.8,Banjarnegara - Batur,0
+Jawa Tengah,Banjarnegara,Susukan,Berta,-7.5010278198,109.442332895,2026-04-01 02:00:00,22,96,0.0,Cerah Berawan,1.4,Banjarnegara - Batur,0
+Jawa Tengah,Banjarnegara,Susukan,Berta,-7.5010278198,109.442332895,2026-04-01 05:00:00,22,97,0.0,Cerah,1.8,Banjarnegara - Batur,0
+Jawa Tengah,Banjarnegara,Susukan,Berta,-7.5010278198,109.442332895,2026-04-01 08:00:00,28,78,0.0,Cerah,2.7,Banjarnegara - Batur,0
+Jawa Tengah,Banjarnegara,Susukan,Berta,-7.5010278198,109.442332895,2026-04-01 11:00:00,30,68,4.8,Hujan Ringan,5.1,Banjarnegara - Batur,0
+Jawa Tengah,Banjarnegara,Susukan,Berta,-7.5010278198,109.442332895,2026-04-01 14:00:00,25,92,6.2,Hujan Sedang,1.7,Banjarnegara - Batur,0
+Jawa Tengah,Banjarnegara,Susukan,Berta,-7.5010278198,109.442332895,2026-04-01 17:00:00,24,97,4.8,Hujan Ringan,0.4,Banjarnegara - Batur,0
+Jawa Tengah,Banjarnegara,Susukan,Berta,-7.5010278198,109.442332895,2026-04-01 20:00:00,24,95,0.0,Berawan,0.3,Banjarnegara - Batur,0
+Jawa Tengah,Banjarnegara,Susukan,Berta,-7.5010278198,109.442332895,2026-04-01 23:00:00,23,95,0.0,Berawan,1.6,Banjarnegara - Batur,0
+Jawa Tengah,Banjarnegara,Susukan,Berta,-7.5010278198,109.442332895,2026-04-02 02:00:00,22,96,0.0,Berawan,1.2,Banjarnegara - Batur,0
+Jawa Tengah,Banjarnegara,Susukan,Berta,-7.5010278198,109.442332895,2026-04-02 05:00:00,22,98,0.0,Berawan,2.6,Banjarnegara - Batur,0
+Jawa Tengah,Banjarnegara,Susukan,Berta,-7.5010278198,109.442332895,2026-04-02 08:00:00,26,84,1.8,Hujan Ringan,2.6,Banjarnegara - Batur,0
+Jawa Tengah,Banjarnegara,Susukan,Berta,-7.5010278198,109.442332895,2026-04-02 11:00:00,30,66,1.8,Hujan Ringan,4.7,Banjarnegara - Batur,0
+Jawa Tengah,Banjarnegara,Susukan,Berta,-7.5010278198,109.442332895,2026-04-02 14:00:00,27,84,1.8,Hujan Ringan,4.7,Banjarnegara - Batur,0
+Jawa Tengah,Banjarnegara,Susukan,Berta,-7.5010278198,109.442332895,2026-04-02 17:00:00,24,98,1.8,Hujan Ringan,1.0,Banjarnegara - Batur,0
+Jawa Tengah,Banjarnegara,Susukan,Berta,-7.5010278198,109.442332895,2026-04-02 20:00:00,24,97,0.0,Berawan,1.0,Banjarnegara - Batur,0
+Jawa Tengah,Banjarnegara,Susukan,Berta,-7.5010278198,109.442332895,2026-04-02 23:00:00,23,99,0.0,Berawan,1.0,Banjarnegara - Batur,0
+Bali,Buleleng,Gerokgak,Sumberklampok,-8.1504464629,114.4940119114,2026-03-31 18:00:00,28,74,0.0,Berawan,0.9,Buleleng - Gerokgak,0
+Bali,Buleleng,Gerokgak,Sumberklampok,-8.1504464629,114.4940119114,2026-03-31 21:00:00,27,77,0.0,Cerah,2.8,Buleleng - Gerokgak,0
+Bali,Buleleng,Gerokgak,Sumberklampok,-8.1504464629,114.4940119114,2026-04-01 00:00:00,26,83,0.0,Cerah,0.9,Buleleng - Gerokgak,0
+Bali,Buleleng,Gerokgak,Sumberklampok,-8.1504464629,114.4940119114,2026-04-01 03:00:00,25,88,0.0,Cerah Berawan,6.1,Buleleng - Gerokgak,0
+Bali,Buleleng,Gerokgak,Sumberklampok,-8.1504464629,114.4940119114,2026-04-01 06:00:00,25,89,0.0,Cerah,6.2,Buleleng - Gerokgak,0
+Bali,Buleleng,Gerokgak,Sumberklampok,-8.1504464629,114.4940119114,2026-04-01 09:00:00,30,61,0.0,Cerah,5.2,Buleleng - Gerokgak,0
+Bali,Buleleng,Gerokgak,Sumberklampok,-8.1504464629,114.4940119114,2026-04-01 12:00:00,31,62,0.0,Cerah,0.6,Buleleng - Gerokgak,0
+Bali,Buleleng,Gerokgak,Sumberklampok,-8.1504464629,114.4940119114,2026-04-01 15:00:00,29,69,0.0,Cerah,4.8,Buleleng - Gerokgak,0
+Bali,Buleleng,Gerokgak,Sumberklampok,-8.1504464629,114.4940119114,2026-04-01 18:00:00,27,78,0.0,Cerah,9.6,Buleleng - Gerokgak,0
+Bali,Buleleng,Gerokgak,Sumberklampok,-8.1504464629,114.4940119114,2026-04-01 21:00:00,26,88,0.0,Cerah,8.4,Buleleng - Gerokgak,0
+Bali,Buleleng,Gerokgak,Sumberklampok,-8.1504464629,114.4940119114,2026-04-02 00:00:00,24,87,0.0,Cerah,6.2,Buleleng - Gerokgak,0
+Bali,Buleleng,Gerokgak,Sumberklampok,-8.1504464629,114.4940119114,2026-04-02 03:00:00,25,90,0.0,Cerah,4.7,Buleleng - Gerokgak,0
+Bali,Buleleng,Gerokgak,Sumberklampok,-8.1504464629,114.4940119114,2026-04-02 06:00:00,26,90,0.0,Cerah,7.8,Buleleng - Gerokgak,0
+Bali,Buleleng,Gerokgak,Sumberklampok,-8.1504464629,114.4940119114,2026-04-02 09:00:00,29,69,0.3,Cerah,7.8,Buleleng - Gerokgak,0
+Bali,Buleleng,Gerokgak,Sumberklampok,-8.1504464629,114.4940119114,2026-04-02 12:00:00,30,69,0.3,Berawan,4.7,Buleleng - Gerokgak,0
+Bali,Buleleng,Gerokgak,Sumberklampok,-8.1504464629,114.4940119114,2026-04-02 15:00:00,28,73,0.1,Cerah Berawan,4.7,Buleleng - Gerokgak,0
+Bali,Buleleng,Gerokgak,Sumberklampok,-8.1504464629,114.4940119114,2026-04-02 18:00:00,27,81,0.1,Berawan,10.1,Buleleng - Gerokgak,0
+Bali,Buleleng,Gerokgak,Sumberklampok,-8.1504464629,114.4940119114,2026-04-02 21:00:00,26,88,0.0,Berawan,10.1,Buleleng - Gerokgak,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Wonosari,Wonosari,-7.9597593064,110.6080550897,2026-03-31 16:00:00,26,83,0.4,Berawan,9.7,Gunungkidul - Panggang,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Wonosari,Wonosari,-7.9597593064,110.6080550897,2026-03-31 19:00:00,24,96,0.0,Berawan,2.9,Gunungkidul - Panggang,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Wonosari,Wonosari,-7.9597593064,110.6080550897,2026-03-31 22:00:00,23,97,0.0,Berawan,6.1,Gunungkidul - Panggang,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Wonosari,Wonosari,-7.9597593064,110.6080550897,2026-04-01 01:00:00,22,97,0.0,Cerah,3.8,Gunungkidul - Panggang,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Wonosari,Wonosari,-7.9597593064,110.6080550897,2026-04-01 04:00:00,22,97,0.0,Cerah,2.7,Gunungkidul - Panggang,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Wonosari,Wonosari,-7.9597593064,110.6080550897,2026-04-01 07:00:00,26,86,0.0,Cerah,3.0,Gunungkidul - Panggang,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Wonosari,Wonosari,-7.9597593064,110.6080550897,2026-04-01 10:00:00,30,66,3.7,Hujan Ringan,6.9,Gunungkidul - Panggang,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Wonosari,Wonosari,-7.9597593064,110.6080550897,2026-04-01 13:00:00,28,77,6.0,Hujan Sedang,5.3,Gunungkidul - Panggang,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Wonosari,Wonosari,-7.9597593064,110.6080550897,2026-04-01 16:00:00,24,91,4.0,Hujan Ringan,9.7,Gunungkidul - Panggang,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Wonosari,Wonosari,-7.9597593064,110.6080550897,2026-04-01 19:00:00,23,98,0.0,Berawan,2.2,Gunungkidul - Panggang,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Wonosari,Wonosari,-7.9597593064,110.6080550897,2026-04-01 22:00:00,23,99,0.0,Berawan,2.8,Gunungkidul - Panggang,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Wonosari,Wonosari,-7.9597593064,110.6080550897,2026-04-02 01:00:00,22,99,0.0,Udara Kabur,2.7,Gunungkidul - Panggang,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Wonosari,Wonosari,-7.9597593064,110.6080550897,2026-04-02 04:00:00,21,99,0.0,Kabut/Asap,0.3,Gunungkidul - Panggang,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Wonosari,Wonosari,-7.9597593064,110.6080550897,2026-04-02 07:00:00,25,87,1.6,Hujan Ringan,2.1,Gunungkidul - Panggang,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Wonosari,Wonosari,-7.9597593064,110.6080550897,2026-04-02 10:00:00,29,73,1.6,Hujan Ringan,9.8,Gunungkidul - Panggang,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Wonosari,Wonosari,-7.9597593064,110.6080550897,2026-04-02 13:00:00,26,86,2.4,Hujan Ringan,9.8,Gunungkidul - Panggang,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Wonosari,Wonosari,-7.9597593064,110.6080550897,2026-04-02 16:00:00,26,86,2.4,Hujan Ringan,5.1,Gunungkidul - Panggang,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Wonosari,Wonosari,-7.9597593064,110.6080550897,2026-04-02 19:00:00,24,95,0.0,Berawan,5.1,Gunungkidul - Panggang,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Wonosari,Wonosari,-7.9597593064,110.6080550897,2026-04-02 22:00:00,23,96,0.0,Berawan,2.7,Gunungkidul - Panggang,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Patuk,Bunder,-7.8872452524,110.5332024517,2026-03-31 17:00:00,25,92,0.3,Berawan,5.0,Gunungkidul - Purwosari,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Patuk,Bunder,-7.8872452524,110.5332024517,2026-03-31 20:00:00,23,93,0.4,Berawan,8.3,Gunungkidul - Purwosari,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Patuk,Bunder,-7.8872452524,110.5332024517,2026-03-31 23:00:00,23,96,0.0,Berawan,6.5,Gunungkidul - Purwosari,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Patuk,Bunder,-7.8872452524,110.5332024517,2026-04-01 02:00:00,22,96,0.0,Cerah Berawan,5.6,Gunungkidul - Purwosari,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Patuk,Bunder,-7.8872452524,110.5332024517,2026-04-01 05:00:00,22,96,0.0,Cerah,5.8,Gunungkidul - Purwosari,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Patuk,Bunder,-7.8872452524,110.5332024517,2026-04-01 08:00:00,27,77,0.0,Cerah Berawan,5.1,Gunungkidul - Purwosari,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Patuk,Bunder,-7.8872452524,110.5332024517,2026-04-01 11:00:00,30,68,2.9,Hujan Ringan,10.0,Gunungkidul - Purwosari,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Patuk,Bunder,-7.8872452524,110.5332024517,2026-04-01 14:00:00,27,80,6.1,Hujan Sedang,5.8,Gunungkidul - Purwosari,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Patuk,Bunder,-7.8872452524,110.5332024517,2026-04-01 17:00:00,24,97,2.9,Hujan Ringan,0.5,Gunungkidul - Purwosari,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Patuk,Bunder,-7.8872452524,110.5332024517,2026-04-01 20:00:00,23,98,0.0,Berawan,2.2,Gunungkidul - Purwosari,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Patuk,Bunder,-7.8872452524,110.5332024517,2026-04-01 23:00:00,22,99,0.0,Udara Kabur,3.1,Gunungkidul - Purwosari,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Patuk,Bunder,-7.8872452524,110.5332024517,2026-04-02 02:00:00,22,99,0.0,Kabut/Asap,3.1,Gunungkidul - Purwosari,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Patuk,Bunder,-7.8872452524,110.5332024517,2026-04-02 05:00:00,22,99,0.0,Berawan,1.0,Gunungkidul - Purwosari,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Patuk,Bunder,-7.8872452524,110.5332024517,2026-04-02 08:00:00,27,81,1.5,Hujan Ringan,1.0,Gunungkidul - Purwosari,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Patuk,Bunder,-7.8872452524,110.5332024517,2026-04-02 11:00:00,30,70,1.5,Hujan Ringan,8.7,Gunungkidul - Purwosari,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Patuk,Bunder,-7.8872452524,110.5332024517,2026-04-02 14:00:00,27,83,2.3,Hujan Ringan,8.7,Gunungkidul - Purwosari,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Patuk,Bunder,-7.8872452524,110.5332024517,2026-04-02 17:00:00,25,90,2.3,Hujan Ringan,4.7,Gunungkidul - Purwosari,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Patuk,Bunder,-7.8872452524,110.5332024517,2026-04-02 20:00:00,24,95,0.0,Berawan,4.7,Gunungkidul - Purwosari,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Patuk,Bunder,-7.8872452524,110.5332024517,2026-04-02 23:00:00,23,96,0.0,Berawan,1.1,Gunungkidul - Purwosari,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Tepus,Giripanggung,-8.1047209029,110.6898565943,2026-03-31 17:00:00,25,89,0.1,Berawan,3.7,Gunungkidul - Tepus,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Tepus,Giripanggung,-8.1047209029,110.6898565943,2026-03-31 20:00:00,24,95,0.0,Berawan,3.8,Gunungkidul - Tepus,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Tepus,Giripanggung,-8.1047209029,110.6898565943,2026-03-31 23:00:00,23,98,0.0,Kabut/Asap,2.6,Gunungkidul - Tepus,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Tepus,Giripanggung,-8.1047209029,110.6898565943,2026-04-01 02:00:00,22,98,0.0,Kabut/Asap,2.3,Gunungkidul - Tepus,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Tepus,Giripanggung,-8.1047209029,110.6898565943,2026-04-01 05:00:00,22,98,0.0,Berawan,2.5,Gunungkidul - Tepus,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Tepus,Giripanggung,-8.1047209029,110.6898565943,2026-04-01 08:00:00,28,76,0.1,Cerah Berawan,8.9,Gunungkidul - Tepus,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Tepus,Giripanggung,-8.1047209029,110.6898565943,2026-04-01 11:00:00,28,76,4.3,Hujan Ringan,12.2,Gunungkidul - Tepus,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Tepus,Giripanggung,-8.1047209029,110.6898565943,2026-04-01 14:00:00,26,88,2.9,Hujan Ringan,11.4,Gunungkidul - Tepus,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Tepus,Giripanggung,-8.1047209029,110.6898565943,2026-04-01 17:00:00,24,96,3.1,Hujan Ringan,11.3,Gunungkidul - Tepus,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Tepus,Giripanggung,-8.1047209029,110.6898565943,2026-04-01 20:00:00,24,97,0.0,Berawan,4.1,Gunungkidul - Tepus,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Tepus,Giripanggung,-8.1047209029,110.6898565943,2026-04-01 23:00:00,23,99,0.0,Kabut/Asap,1.9,Gunungkidul - Tepus,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Tepus,Giripanggung,-8.1047209029,110.6898565943,2026-04-02 02:00:00,22,99,0.0,Kabut/Asap,4.0,Gunungkidul - Tepus,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Tepus,Giripanggung,-8.1047209029,110.6898565943,2026-04-02 05:00:00,22,99,0.0,Berawan,1.4,Gunungkidul - Tepus,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Tepus,Giripanggung,-8.1047209029,110.6898565943,2026-04-02 08:00:00,27,82,1.8,Hujan Ringan,1.4,Gunungkidul - Tepus,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Tepus,Giripanggung,-8.1047209029,110.6898565943,2026-04-02 11:00:00,28,77,1.8,Hujan Ringan,12.1,Gunungkidul - Tepus,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Tepus,Giripanggung,-8.1047209029,110.6898565943,2026-04-02 14:00:00,26,86,1.9,Hujan Ringan,12.1,Gunungkidul - Tepus,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Tepus,Giripanggung,-8.1047209029,110.6898565943,2026-04-02 17:00:00,25,93,1.9,Hujan Ringan,8.8,Gunungkidul - Tepus,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Tepus,Giripanggung,-8.1047209029,110.6898565943,2026-04-02 20:00:00,24,94,0.0,Berawan,8.8,Gunungkidul - Tepus,0
+Daerah Istimewa Yogyakarta,Gunungkidul,Tepus,Giripanggung,-8.1047209029,110.6898565943,2026-04-02 23:00:00,23,96,0.0,Berawan,6.3,Gunungkidul - Tepus,0
+Bali,Karangasem,Manggis,Gegelang,-8.494945543,115.4763728326,2026-03-31 18:00:00,24,89,0.0,Berawan,7.2,Karangasem - Kubu,0
+Bali,Karangasem,Manggis,Gegelang,-8.494945543,115.4763728326,2026-03-31 21:00:00,24,89,0.0,Berawan,8.7,Karangasem - Kubu,0
+Bali,Karangasem,Manggis,Gegelang,-8.494945543,115.4763728326,2026-04-01 00:00:00,23,87,0.0,Cerah,7.7,Karangasem - Kubu,0
+Bali,Karangasem,Manggis,Gegelang,-8.494945543,115.4763728326,2026-04-01 03:00:00,22,87,0.0,Cerah Berawan,4.5,Karangasem - Kubu,0
+Bali,Karangasem,Manggis,Gegelang,-8.494945543,115.4763728326,2026-04-01 06:00:00,22,86,0.0,Cerah,3.2,Karangasem - Kubu,0
+Bali,Karangasem,Manggis,Gegelang,-8.494945543,115.4763728326,2026-04-01 09:00:00,28,70,0.0,Cerah,11.0,Karangasem - Kubu,0
+Bali,Karangasem,Manggis,Gegelang,-8.494945543,115.4763728326,2026-04-01 12:00:00,31,67,0.0,Cerah,12.0,Karangasem - Kubu,0
+Bali,Karangasem,Manggis,Gegelang,-8.494945543,115.4763728326,2026-04-01 15:00:00,28,74,0.0,Cerah,9.1,Karangasem - Kubu,0
+Bali,Karangasem,Manggis,Gegelang,-8.494945543,115.4763728326,2026-04-01 18:00:00,25,89,0.0,Cerah Berawan,6.8,Karangasem - Kubu,0
+Bali,Karangasem,Manggis,Gegelang,-8.494945543,115.4763728326,2026-04-01 21:00:00,24,92,0.0,Cerah,7.2,Karangasem - Kubu,0
+Bali,Karangasem,Manggis,Gegelang,-8.494945543,115.4763728326,2026-04-02 00:00:00,24,91,0.0,Cerah,4.8,Karangasem - Kubu,0
+Bali,Karangasem,Manggis,Gegelang,-8.494945543,115.4763728326,2026-04-02 03:00:00,23,89,0.0,Cerah,5.1,Karangasem - Kubu,0
+Bali,Karangasem,Manggis,Gegelang,-8.494945543,115.4763728326,2026-04-02 06:00:00,24,89,0.0,Cerah,5.0,Karangasem - Kubu,0
+Bali,Karangasem,Manggis,Gegelang,-8.494945543,115.4763728326,2026-04-02 09:00:00,28,76,1.0,Hujan Ringan,5.0,Karangasem - Kubu,0
+Bali,Karangasem,Manggis,Gegelang,-8.494945543,115.4763728326,2026-04-02 12:00:00,26,86,1.0,Hujan Ringan,4.6,Karangasem - Kubu,0
+Bali,Karangasem,Manggis,Gegelang,-8.494945543,115.4763728326,2026-04-02 15:00:00,26,83,0.3,Berawan,4.6,Karangasem - Kubu,0
+Bali,Karangasem,Manggis,Gegelang,-8.494945543,115.4763728326,2026-04-02 18:00:00,24,92,0.3,Berawan,4.0,Karangasem - Kubu,0
+Bali,Karangasem,Manggis,Gegelang,-8.494945543,115.4763728326,2026-04-02 21:00:00,23,92,0.0,Berawan,4.0,Karangasem - Kubu,0
+Jawa Timur,Pasuruan,Nguling,Sanganom,-7.7764376754,113.0470088837,2026-03-31 17:00:00,25,86,0.0,Berawan,1.1,Pasuruan - Tosari,0
+Jawa Timur,Pasuruan,Nguling,Sanganom,-7.7764376754,113.0470088837,2026-03-31 20:00:00,24,88,0.0,Berawan,4.2,Pasuruan - Tosari,0
+Jawa Timur,Pasuruan,Nguling,Sanganom,-7.7764376754,113.0470088837,2026-03-31 23:00:00,24,84,0.0,Cerah Berawan,4.4,Pasuruan - Tosari,0
+Jawa Timur,Pasuruan,Nguling,Sanganom,-7.7764376754,113.0470088837,2026-04-01 02:00:00,23,77,0.0,Cerah,3.2,Pasuruan - Tosari,0
+Jawa Timur,Pasuruan,Nguling,Sanganom,-7.7764376754,113.0470088837,2026-04-01 05:00:00,24,75,0.0,Cerah,0.5,Pasuruan - Tosari,0
+Jawa Timur,Pasuruan,Nguling,Sanganom,-7.7764376754,113.0470088837,2026-04-01 08:00:00,28,70,0.0,Cerah,5.7,Pasuruan - Tosari,0
+Jawa Timur,Pasuruan,Nguling,Sanganom,-7.7764376754,113.0470088837,2026-04-01 11:00:00,30,65,0.2,Cerah,18.5,Pasuruan - Tosari,0
+Jawa Timur,Pasuruan,Nguling,Sanganom,-7.7764376754,113.0470088837,2026-04-01 14:00:00,29,73,0.3,Cerah,6.3,Pasuruan - Tosari,0
+Jawa Timur,Pasuruan,Nguling,Sanganom,-7.7764376754,113.0470088837,2026-04-01 17:00:00,25,89,1.4,Hujan Ringan,2.5,Pasuruan - Tosari,0
+Jawa Timur,Pasuruan,Nguling,Sanganom,-7.7764376754,113.0470088837,2026-04-01 20:00:00,24,90,0.2,Berawan,2.9,Pasuruan - Tosari,0
+Jawa Timur,Pasuruan,Nguling,Sanganom,-7.7764376754,113.0470088837,2026-04-01 23:00:00,24,85,0.0,Berawan,0.9,Pasuruan - Tosari,0
+Jawa Timur,Pasuruan,Nguling,Sanganom,-7.7764376754,113.0470088837,2026-04-02 02:00:00,24,84,0.0,Cerah,2.1,Pasuruan - Tosari,0
+Jawa Timur,Pasuruan,Nguling,Sanganom,-7.7764376754,113.0470088837,2026-04-02 05:00:00,24,83,0.0,Cerah,2.8,Pasuruan - Tosari,0
+Jawa Timur,Pasuruan,Nguling,Sanganom,-7.7764376754,113.0470088837,2026-04-02 08:00:00,28,75,1.3,Hujan Ringan,2.8,Pasuruan - Tosari,0
+Jawa Timur,Pasuruan,Nguling,Sanganom,-7.7764376754,113.0470088837,2026-04-02 11:00:00,30,76,1.3,Hujan Ringan,18.5,Pasuruan - Tosari,0
+Jawa Timur,Pasuruan,Nguling,Sanganom,-7.7764376754,113.0470088837,2026-04-02 14:00:00,28,83,0.4,Berawan,18.5,Pasuruan - Tosari,0
+Jawa Timur,Pasuruan,Nguling,Sanganom,-7.7764376754,113.0470088837,2026-04-02 17:00:00,25,91,0.4,Berawan,2.2,Pasuruan - Tosari,0
+Jawa Timur,Pasuruan,Nguling,Sanganom,-7.7764376754,113.0470088837,2026-04-02 20:00:00,24,88,0.0,Berawan,2.2,Pasuruan - Tosari,0
+Jawa Timur,Pasuruan,Nguling,Sanganom,-7.7764376754,113.0470088837,2026-04-02 23:00:00,24,86,0.0,Berawan,1.6,Pasuruan - Tosari,0
+Jawa Timur,Probolinggo,Gading,Batur,-7.8799653698,113.5667567777,2026-03-31 17:00:00,20,97,0.0,Berawan,4.1,Probolinggo - Sukapura,0
+Jawa Timur,Probolinggo,Gading,Batur,-7.8799653698,113.5667567777,2026-03-31 20:00:00,19,95,0.0,Kabut/Asap,3.8,Probolinggo - Sukapura,0
+Jawa Timur,Probolinggo,Gading,Batur,-7.8799653698,113.5667567777,2026-03-31 23:00:00,18,93,0.0,Cerah Berawan,4.0,Probolinggo - Sukapura,0
+Jawa Timur,Probolinggo,Gading,Batur,-7.8799653698,113.5667567777,2026-04-01 02:00:00,18,92,0.0,Cerah,2.6,Probolinggo - Sukapura,0
+Jawa Timur,Probolinggo,Gading,Batur,-7.8799653698,113.5667567777,2026-04-01 05:00:00,18,89,0.0,Cerah,3.3,Probolinggo - Sukapura,0
+Jawa Timur,Probolinggo,Gading,Batur,-7.8799653698,113.5667567777,2026-04-01 08:00:00,23,73,0.1,Cerah,7.4,Probolinggo - Sukapura,0
+Jawa Timur,Probolinggo,Gading,Batur,-7.8799653698,113.5667567777,2026-04-01 11:00:00,26,69,0.5,Cerah,18.5,Probolinggo - Sukapura,0
+Jawa Timur,Probolinggo,Gading,Batur,-7.8799653698,113.5667567777,2026-04-01 14:00:00,23,80,0.9,Cerah Berawan,1.0,Probolinggo - Sukapura,0
+Jawa Timur,Probolinggo,Gading,Batur,-7.8799653698,113.5667567777,2026-04-01 17:00:00,20,95,1.2,Hujan Ringan,1.8,Probolinggo - Sukapura,0
+Jawa Timur,Probolinggo,Gading,Batur,-7.8799653698,113.5667567777,2026-04-01 20:00:00,19,91,0.1,Berawan,0.9,Probolinggo - Sukapura,0
+Jawa Timur,Probolinggo,Gading,Batur,-7.8799653698,113.5667567777,2026-04-01 23:00:00,19,94,0.1,Kabut/Asap,0.9,Probolinggo - Sukapura,0
+Jawa Timur,Probolinggo,Gading,Batur,-7.8799653698,113.5667567777,2026-04-02 02:00:00,18,94,0.0,Udara Kabur,1.3,Probolinggo - Sukapura,0
+Jawa Timur,Probolinggo,Gading,Batur,-7.8799653698,113.5667567777,2026-04-02 05:00:00,19,90,0.0,Cerah Berawan,3.3,Probolinggo - Sukapura,0
+Jawa Timur,Probolinggo,Gading,Batur,-7.8799653698,113.5667567777,2026-04-02 08:00:00,23,88,1.8,Hujan Ringan,3.3,Probolinggo - Sukapura,0
+Jawa Timur,Probolinggo,Gading,Batur,-7.8799653698,113.5667567777,2026-04-02 11:00:00,24,91,1.8,Hujan Ringan,18.5,Probolinggo - Sukapura,0
+Jawa Timur,Probolinggo,Gading,Batur,-7.8799653698,113.5667567777,2026-04-02 14:00:00,23,92,0.5,Berawan,18.5,Probolinggo - Sukapura,0
+Jawa Timur,Probolinggo,Gading,Batur,-7.8799653698,113.5667567777,2026-04-02 17:00:00,20,97,0.5,Udara Kabur,1.6,Probolinggo - Sukapura,0
+Jawa Timur,Probolinggo,Gading,Batur,-7.8799653698,113.5667567777,2026-04-02 20:00:00,19,97,0.1,Udara Kabur,1.6,Probolinggo - Sukapura,0
+Jawa Timur,Probolinggo,Gading,Batur,-7.8799653698,113.5667567777,2026-04-02 23:00:00,18,95,0.1,Udara Kabur,0.9,Probolinggo - Sukapura,0
+Nusa Tenggara Timur,Kupang,Amfoang Utara,Afoan,-9.5360499362,123.8110935697,2026-03-31 18:00:00,25,87,0.4,Cerah,2.8,Sumba Timur - Kanatang,0
+Nusa Tenggara Timur,Kupang,Amfoang Utara,Afoan,-9.5360499362,123.8110935697,2026-03-31 21:00:00,25,85,0.0,Cerah,3.8,Sumba Timur - Kanatang,0
+Nusa Tenggara Timur,Kupang,Amfoang Utara,Afoan,-9.5360499362,123.8110935697,2026-04-01 00:00:00,25,82,0.0,Cerah,3.6,Sumba Timur - Kanatang,0
+Nusa Tenggara Timur,Kupang,Amfoang Utara,Afoan,-9.5360499362,123.8110935697,2026-04-01 03:00:00,25,83,0.0,Cerah,3.9,Sumba Timur - Kanatang,0
+Nusa Tenggara Timur,Kupang,Amfoang Utara,Afoan,-9.5360499362,123.8110935697,2026-04-01 06:00:00,26,80,0.0,Cerah,6.2,Sumba Timur - Kanatang,0
+Nusa Tenggara Timur,Kupang,Amfoang Utara,Afoan,-9.5360499362,123.8110935697,2026-04-01 09:00:00,27,77,1.7,Hujan Ringan,9.2,Sumba Timur - Kanatang,0
+Nusa Tenggara Timur,Kupang,Amfoang Utara,Afoan,-9.5360499362,123.8110935697,2026-04-01 12:00:00,30,78,1.7,Hujan Ringan,7.6,Sumba Timur - Kanatang,0
+Nusa Tenggara Timur,Kupang,Amfoang Utara,Afoan,-9.5360499362,123.8110935697,2026-04-01 15:00:00,28,81,1.7,Hujan Ringan,2.7,Sumba Timur - Kanatang,0
+Nusa Tenggara Timur,Kupang,Amfoang Utara,Afoan,-9.5360499362,123.8110935697,2026-04-01 18:00:00,26,80,0.0,Cerah,2.6,Sumba Timur - Kanatang,0
+Nusa Tenggara Timur,Kupang,Amfoang Utara,Afoan,-9.5360499362,123.8110935697,2026-04-01 21:00:00,26,81,0.0,Cerah,0.4,Sumba Timur - Kanatang,0
+Nusa Tenggara Timur,Kupang,Amfoang Utara,Afoan,-9.5360499362,123.8110935697,2026-04-02 00:00:00,25,82,0.0,Cerah,6.2,Sumba Timur - Kanatang,0
+Nusa Tenggara Timur,Kupang,Amfoang Utara,Afoan,-9.5360499362,123.8110935697,2026-04-02 03:00:00,25,87,0.0,Cerah,7.3,Sumba Timur - Kanatang,0
+Nusa Tenggara Timur,Kupang,Amfoang Utara,Afoan,-9.5360499362,123.8110935697,2026-04-02 06:00:00,26,80,0.0,Cerah,6.2,Sumba Timur - Kanatang,0
+Nusa Tenggara Timur,Kupang,Amfoang Utara,Afoan,-9.5360499362,123.8110935697,2026-04-02 09:00:00,28,75,1.0,Cerah,6.2,Sumba Timur - Kanatang,0
+Nusa Tenggara Timur,Kupang,Amfoang Utara,Afoan,-9.5360499362,123.8110935697,2026-04-02 12:00:00,27,80,1.0,Cerah,5.3,Sumba Timur - Kanatang,0
+Nusa Tenggara Timur,Kupang,Amfoang Utara,Afoan,-9.5360499362,123.8110935697,2026-04-02 15:00:00,27,77,0.2,Cerah,5.3,Sumba Timur - Kanatang,0
+Nusa Tenggara Timur,Kupang,Amfoang Utara,Afoan,-9.5360499362,123.8110935697,2026-04-02 18:00:00,26,82,0.2,Cerah,1.5,Sumba Timur - Kanatang,0
+Nusa Tenggara Timur,Kupang,Amfoang Utara,Afoan,-9.5360499362,123.8110935697,2026-04-02 21:00:00,26,85,0.0,Cerah,1.5,Sumba Timur - Kanatang,0
+Jawa Tengah,Wonosobo,Wadaslintang,Kaligowong,-7.5904930008,109.7642701275,2026-03-31 17:00:00,24,97,0.0,Berawan,2.6,Wonosobo - Kejajar,0
+Jawa Tengah,Wonosobo,Wadaslintang,Kaligowong,-7.5904930008,109.7642701275,2026-03-31 20:00:00,23,97,0.0,Berawan,1.4,Wonosobo - Kejajar,0
+Jawa Tengah,Wonosobo,Wadaslintang,Kaligowong,-7.5904930008,109.7642701275,2026-03-31 23:00:00,22,98,0.0,Berawan,2.9,Wonosobo - Kejajar,0
+Jawa Tengah,Wonosobo,Wadaslintang,Kaligowong,-7.5904930008,109.7642701275,2026-04-01 02:00:00,21,98,0.0,Berawan,4.7,Wonosobo - Kejajar,0
+Jawa Tengah,Wonosobo,Wadaslintang,Kaligowong,-7.5904930008,109.7642701275,2026-04-01 05:00:00,21,99,0.0,Cerah,2.0,Wonosobo - Kejajar,0
+Jawa Tengah,Wonosobo,Wadaslintang,Kaligowong,-7.5904930008,109.7642701275,2026-04-01 08:00:00,27,77,0.0,Cerah,4.6,Wonosobo - Kejajar,0
+Jawa Tengah,Wonosobo,Wadaslintang,Kaligowong,-7.5904930008,109.7642701275,2026-04-01 11:00:00,28,75,5.6,Hujan Sedang,2.0,Wonosobo - Kejajar,0
+Jawa Tengah,Wonosobo,Wadaslintang,Kaligowong,-7.5904930008,109.7642701275,2026-04-01 14:00:00,24,94,6.1,Hujan Sedang,3.7,Wonosobo - Kejajar,0
+Jawa Tengah,Wonosobo,Wadaslintang,Kaligowong,-7.5904930008,109.7642701275,2026-04-01 17:00:00,23,97,4.0,Hujan Ringan,2.3,Wonosobo - Kejajar,0
+Jawa Tengah,Wonosobo,Wadaslintang,Kaligowong,-7.5904930008,109.7642701275,2026-04-01 20:00:00,22,99,0.0,Berawan,0.6,Wonosobo - Kejajar,0
+Jawa Tengah,Wonosobo,Wadaslintang,Kaligowong,-7.5904930008,109.7642701275,2026-04-01 23:00:00,22,98,0.0,Cerah Berawan,3.4,Wonosobo - Kejajar,0
+Jawa Tengah,Wonosobo,Wadaslintang,Kaligowong,-7.5904930008,109.7642701275,2026-04-02 02:00:00,22,98,0.0,Berawan,5.6,Wonosobo - Kejajar,0
+Jawa Tengah,Wonosobo,Wadaslintang,Kaligowong,-7.5904930008,109.7642701275,2026-04-02 05:00:00,21,98,0.0,Berawan,4.5,Wonosobo - Kejajar,0
+Jawa Tengah,Wonosobo,Wadaslintang,Kaligowong,-7.5904930008,109.7642701275,2026-04-02 08:00:00,27,80,1.8,Hujan Ringan,4.5,Wonosobo - Kejajar,0
+Jawa Tengah,Wonosobo,Wadaslintang,Kaligowong,-7.5904930008,109.7642701275,2026-04-02 11:00:00,28,73,1.8,Hujan Ringan,5.8,Wonosobo - Kejajar,0
+Jawa Tengah,Wonosobo,Wadaslintang,Kaligowong,-7.5904930008,109.7642701275,2026-04-02 14:00:00,26,86,1.3,Hujan Ringan,5.8,Wonosobo - Kejajar,0
+Jawa Tengah,Wonosobo,Wadaslintang,Kaligowong,-7.5904930008,109.7642701275,2026-04-02 17:00:00,24,98,1.3,Hujan Ringan,1.0,Wonosobo - Kejajar,0
+Jawa Tengah,Wonosobo,Wadaslintang,Kaligowong,-7.5904930008,109.7642701275,2026-04-02 20:00:00,23,98,0.0,Berawan,1.0,Wonosobo - Kejajar,0
+Jawa Tengah,Wonosobo,Wadaslintang,Kaligowong,-7.5904930008,109.7642701275,2026-04-02 23:00:00,22,99,0.0,Berawan,4.0,Wonosobo - Kejajar,0
+Aceh,Aceh Utara,Seunuddon,Tanjong Pineung,5.1696557502,97.4319247477,2026-03-31 17:00:00,25,91,1.7,Hujan Ringan,4.3,Aceh Utara - Baktiya,1
+Aceh,Aceh Utara,Seunuddon,Tanjong Pineung,5.1696557502,97.4319247477,2026-03-31 20:00:00,25,93,2.7,Hujan Ringan,9.0,Aceh Utara - Baktiya,1
+Aceh,Aceh Utara,Seunuddon,Tanjong Pineung,5.1696557502,97.4319247477,2026-03-31 23:00:00,25,93,0.0,Berawan,6.7,Aceh Utara - Baktiya,1
+Aceh,Aceh Utara,Seunuddon,Tanjong Pineung,5.1696557502,97.4319247477,2026-04-01 02:00:00,25,92,0.0,Cerah,5.0,Aceh Utara - Baktiya,1
+Aceh,Aceh Utara,Seunuddon,Tanjong Pineung,5.1696557502,97.4319247477,2026-04-01 05:00:00,25,92,0.0,Cerah Berawan,2.3,Aceh Utara - Baktiya,1
+Aceh,Aceh Utara,Seunuddon,Tanjong Pineung,5.1696557502,97.4319247477,2026-04-01 08:00:00,26,89,0.4,Cerah Berawan,7.4,Aceh Utara - Baktiya,1
+Aceh,Aceh Utara,Seunuddon,Tanjong Pineung,5.1696557502,97.4319247477,2026-04-01 11:00:00,28,80,0.1,Cerah Berawan,8.7,Aceh Utara - Baktiya,1
+Aceh,Aceh Utara,Seunuddon,Tanjong Pineung,5.1696557502,97.4319247477,2026-04-01 14:00:00,28,77,0.3,Berawan,2.5,Aceh Utara - Baktiya,1
+Aceh,Aceh Utara,Seunuddon,Tanjong Pineung,5.1696557502,97.4319247477,2026-04-01 17:00:00,28,80,0.0,Berawan,6.0,Aceh Utara - Baktiya,1
+Aceh,Aceh Utara,Seunuddon,Tanjong Pineung,5.1696557502,97.4319247477,2026-04-01 20:00:00,26,92,0.0,Berawan,6.6,Aceh Utara - Baktiya,1
+Aceh,Aceh Utara,Seunuddon,Tanjong Pineung,5.1696557502,97.4319247477,2026-04-01 23:00:00,26,92,0.0,Berawan,6.6,Aceh Utara - Baktiya,1
+Aceh,Aceh Utara,Seunuddon,Tanjong Pineung,5.1696557502,97.4319247477,2026-04-02 02:00:00,25,91,0.0,Berawan,8.5,Aceh Utara - Baktiya,1
+Aceh,Aceh Utara,Seunuddon,Tanjong Pineung,5.1696557502,97.4319247477,2026-04-02 05:00:00,25,93,0.1,Cerah,7.0,Aceh Utara - Baktiya,1
+Aceh,Aceh Utara,Seunuddon,Tanjong Pineung,5.1696557502,97.4319247477,2026-04-02 08:00:00,28,82,0.1,Cerah,7.0,Aceh Utara - Baktiya,1
+Aceh,Aceh Utara,Seunuddon,Tanjong Pineung,5.1696557502,97.4319247477,2026-04-02 11:00:00,30,73,0.1,Cerah Berawan,15.0,Aceh Utara - Baktiya,1
+Aceh,Aceh Utara,Seunuddon,Tanjong Pineung,5.1696557502,97.4319247477,2026-04-02 14:00:00,30,72,0.0,Cerah Berawan,15.0,Aceh Utara - Baktiya,1
+Aceh,Aceh Utara,Seunuddon,Tanjong Pineung,5.1696557502,97.4319247477,2026-04-02 17:00:00,29,79,0.0,Berawan,7.4,Aceh Utara - Baktiya,1
+Aceh,Aceh Utara,Seunuddon,Tanjong Pineung,5.1696557502,97.4319247477,2026-04-02 20:00:00,26,91,0.0,Berawan,7.4,Aceh Utara - Baktiya,1
+Aceh,Aceh Utara,Seunuddon,Tanjong Pineung,5.1696557502,97.4319247477,2026-04-02 23:00:00,25,94,0.0,Berawan,7.7,Aceh Utara - Baktiya,1
+Aceh,Aceh Utara,Dewantara,Keude Krueng Geukueh,5.2461331599,97.0251099992,2026-03-31 17:00:00,26,89,2.6,Hujan Ringan,4.7,Aceh Utara - Lhoksukon,1
+Aceh,Aceh Utara,Dewantara,Keude Krueng Geukueh,5.2461331599,97.0251099992,2026-03-31 20:00:00,25,93,0.6,Berawan,4.7,Aceh Utara - Lhoksukon,1
+Aceh,Aceh Utara,Dewantara,Keude Krueng Geukueh,5.2461331599,97.0251099992,2026-03-31 23:00:00,24,93,0.0,Cerah Berawan,4.4,Aceh Utara - Lhoksukon,1
+Aceh,Aceh Utara,Dewantara,Keude Krueng Geukueh,5.2461331599,97.0251099992,2026-04-01 02:00:00,24,94,0.0,Cerah Berawan,4.8,Aceh Utara - Lhoksukon,1
+Aceh,Aceh Utara,Dewantara,Keude Krueng Geukueh,5.2461331599,97.0251099992,2026-04-01 05:00:00,24,94,0.1,Berawan,5.4,Aceh Utara - Lhoksukon,1
+Aceh,Aceh Utara,Dewantara,Keude Krueng Geukueh,5.2461331599,97.0251099992,2026-04-01 08:00:00,25,90,2.2,Hujan Ringan,3.4,Aceh Utara - Lhoksukon,1
+Aceh,Aceh Utara,Dewantara,Keude Krueng Geukueh,5.2461331599,97.0251099992,2026-04-01 11:00:00,28,77,0.1,Cerah,6.5,Aceh Utara - Lhoksukon,1
+Aceh,Aceh Utara,Dewantara,Keude Krueng Geukueh,5.2461331599,97.0251099992,2026-04-01 14:00:00,28,77,0.1,Cerah Berawan,2.6,Aceh Utara - Lhoksukon,1
+Aceh,Aceh Utara,Dewantara,Keude Krueng Geukueh,5.2461331599,97.0251099992,2026-04-01 17:00:00,28,80,0.0,Petir,5.7,Aceh Utara - Lhoksukon,1
+Aceh,Aceh Utara,Dewantara,Keude Krueng Geukueh,5.2461331599,97.0251099992,2026-04-01 20:00:00,27,87,0.0,Berawan,4.4,Aceh Utara - Lhoksukon,1
+Aceh,Aceh Utara,Dewantara,Keude Krueng Geukueh,5.2461331599,97.0251099992,2026-04-01 23:00:00,26,92,0.0,Cerah Berawan,5.7,Aceh Utara - Lhoksukon,1
+Aceh,Aceh Utara,Dewantara,Keude Krueng Geukueh,5.2461331599,97.0251099992,2026-04-02 02:00:00,25,93,0.0,Berawan,7.0,Aceh Utara - Lhoksukon,1
+Aceh,Aceh Utara,Dewantara,Keude Krueng Geukueh,5.2461331599,97.0251099992,2026-04-02 05:00:00,25,92,0.1,Cerah,1.3,Aceh Utara - Lhoksukon,1
+Aceh,Aceh Utara,Dewantara,Keude Krueng Geukueh,5.2461331599,97.0251099992,2026-04-02 08:00:00,28,81,0.1,Cerah,1.3,Aceh Utara - Lhoksukon,1
+Aceh,Aceh Utara,Dewantara,Keude Krueng Geukueh,5.2461331599,97.0251099992,2026-04-02 11:00:00,30,74,0.1,Cerah,13.1,Aceh Utara - Lhoksukon,1
+Aceh,Aceh Utara,Dewantara,Keude Krueng Geukueh,5.2461331599,97.0251099992,2026-04-02 14:00:00,29,77,0.1,Cerah,13.1,Aceh Utara - Lhoksukon,1
+Aceh,Aceh Utara,Dewantara,Keude Krueng Geukueh,5.2461331599,97.0251099992,2026-04-02 17:00:00,28,78,0.1,Berawan,2.6,Aceh Utara - Lhoksukon,1
+Aceh,Aceh Utara,Dewantara,Keude Krueng Geukueh,5.2461331599,97.0251099992,2026-04-02 20:00:00,27,89,0.0,Berawan,2.6,Aceh Utara - Lhoksukon,1
+Aceh,Aceh Utara,Dewantara,Keude Krueng Geukueh,5.2461331599,97.0251099992,2026-04-02 23:00:00,25,94,0.0,Berawan,2.2,Aceh Utara - Lhoksukon,1
+Sumatera Barat,Agam,Candung,Canduang Koto Laweh,-0.3151347431,100.4680019911,2026-03-31 17:00:00,20,94,0.8,Cerah Berawan,1.8,Agam - Palembayan,1
+Sumatera Barat,Agam,Candung,Canduang Koto Laweh,-0.3151347431,100.4680019911,2026-03-31 20:00:00,19,97,0.1,Berawan,0.8,Agam - Palembayan,1
+Sumatera Barat,Agam,Candung,Canduang Koto Laweh,-0.3151347431,100.4680019911,2026-03-31 23:00:00,18,96,0.3,Cerah Berawan,2.1,Agam - Palembayan,1
+Sumatera Barat,Agam,Candung,Canduang Koto Laweh,-0.3151347431,100.4680019911,2026-04-01 02:00:00,18,93,0.0,Cerah Berawan,1.8,Agam - Palembayan,1
+Sumatera Barat,Agam,Candung,Canduang Koto Laweh,-0.3151347431,100.4680019911,2026-04-01 05:00:00,17,97,0.0,Berawan,1.0,Agam - Palembayan,1
+Sumatera Barat,Agam,Candung,Canduang Koto Laweh,-0.3151347431,100.4680019911,2026-04-01 08:00:00,20,91,0.2,Cerah Berawan,6.8,Agam - Palembayan,1
+Sumatera Barat,Agam,Candung,Canduang Koto Laweh,-0.3151347431,100.4680019911,2026-04-01 11:00:00,21,89,4.0,Hujan Ringan,5.0,Agam - Palembayan,1
+Sumatera Barat,Agam,Candung,Canduang Koto Laweh,-0.3151347431,100.4680019911,2026-04-01 14:00:00,22,86,0.9,Berawan,7.0,Agam - Palembayan,1
+Sumatera Barat,Agam,Candung,Canduang Koto Laweh,-0.3151347431,100.4680019911,2026-04-01 17:00:00,19,97,1.7,Hujan Ringan,1.7,Agam - Palembayan,1
+Sumatera Barat,Agam,Candung,Canduang Koto Laweh,-0.3151347431,100.4680019911,2026-04-01 20:00:00,19,96,0.1,Berawan,0.6,Agam - Palembayan,1
+Sumatera Barat,Agam,Candung,Canduang Koto Laweh,-0.3151347431,100.4680019911,2026-04-01 23:00:00,18,97,0.0,Berawan,1.1,Agam - Palembayan,1
+Sumatera Barat,Agam,Candung,Canduang Koto Laweh,-0.3151347431,100.4680019911,2026-04-02 02:00:00,18,97,0.0,Berawan,1.1,Agam - Palembayan,1
+Sumatera Barat,Agam,Candung,Canduang Koto Laweh,-0.3151347431,100.4680019911,2026-04-02 05:00:00,18,98,0.0,Cerah Berawan,1.0,Agam - Palembayan,1
+Sumatera Barat,Agam,Candung,Canduang Koto Laweh,-0.3151347431,100.4680019911,2026-04-02 08:00:00,20,91,0.2,Berawan,1.0,Agam - Palembayan,1
+Sumatera Barat,Agam,Candung,Canduang Koto Laweh,-0.3151347431,100.4680019911,2026-04-02 11:00:00,23,79,0.2,Cerah,8.6,Agam - Palembayan,1
+Sumatera Barat,Agam,Candung,Canduang Koto Laweh,-0.3151347431,100.4680019911,2026-04-02 14:00:00,22,87,1.4,Hujan Ringan,8.6,Agam - Palembayan,1
+Sumatera Barat,Agam,Candung,Canduang Koto Laweh,-0.3151347431,100.4680019911,2026-04-02 17:00:00,20,96,1.4,Hujan Ringan,2.0,Agam - Palembayan,1
+Sumatera Barat,Agam,Candung,Canduang Koto Laweh,-0.3151347431,100.4680019911,2026-04-02 20:00:00,18,99,0.0,Berawan,2.0,Agam - Palembayan,1
+Sumatera Barat,Agam,Candung,Canduang Koto Laweh,-0.3151347431,100.4680019911,2026-04-02 23:00:00,18,99,0.0,Berawan,1.7,Agam - Palembayan,1
+Sumatera Barat,Agam,Ampek Angkek,Batu Taba,-0.3170797825,100.416421662,2026-03-31 17:00:00,19,95,1.4,Hujan Ringan,2.2,Agam - Tanjung Mutiara,1
+Sumatera Barat,Agam,Ampek Angkek,Batu Taba,-0.3170797825,100.416421662,2026-03-31 20:00:00,18,98,0.2,Berawan,1.1,Agam - Tanjung Mutiara,1
+Sumatera Barat,Agam,Ampek Angkek,Batu Taba,-0.3170797825,100.416421662,2026-03-31 23:00:00,17,97,0.3,Cerah Berawan,2.9,Agam - Tanjung Mutiara,1
+Sumatera Barat,Agam,Ampek Angkek,Batu Taba,-0.3170797825,100.416421662,2026-04-01 02:00:00,17,95,0.0,Berawan,3.4,Agam - Tanjung Mutiara,1
+Sumatera Barat,Agam,Ampek Angkek,Batu Taba,-0.3170797825,100.416421662,2026-04-01 05:00:00,17,98,0.0,Cerah Berawan,4.7,Agam - Tanjung Mutiara,1
+Sumatera Barat,Agam,Ampek Angkek,Batu Taba,-0.3170797825,100.416421662,2026-04-01 08:00:00,20,89,0.1,Cerah Berawan,8.3,Agam - Tanjung Mutiara,1
+Sumatera Barat,Agam,Ampek Angkek,Batu Taba,-0.3170797825,100.416421662,2026-04-01 11:00:00,21,86,4.3,Hujan Ringan,8.3,Agam - Tanjung Mutiara,1
+Sumatera Barat,Agam,Ampek Angkek,Batu Taba,-0.3170797825,100.416421662,2026-04-01 14:00:00,22,83,0.8,Berawan,7.2,Agam - Tanjung Mutiara,1
+Sumatera Barat,Agam,Ampek Angkek,Batu Taba,-0.3170797825,100.416421662,2026-04-01 17:00:00,19,97,1.3,Hujan Petir,4.8,Agam - Tanjung Mutiara,1
+Sumatera Barat,Agam,Ampek Angkek,Batu Taba,-0.3170797825,100.416421662,2026-04-01 20:00:00,18,98,0.1,Berawan,3.7,Agam - Tanjung Mutiara,1
+Sumatera Barat,Agam,Ampek Angkek,Batu Taba,-0.3170797825,100.416421662,2026-04-01 23:00:00,18,98,0.0,Berawan,5.0,Agam - Tanjung Mutiara,1
+Sumatera Barat,Agam,Ampek Angkek,Batu Taba,-0.3170797825,100.416421662,2026-04-02 02:00:00,18,98,0.0,Berawan,4.8,Agam - Tanjung Mutiara,1
+Sumatera Barat,Agam,Ampek Angkek,Batu Taba,-0.3170797825,100.416421662,2026-04-02 05:00:00,17,99,0.0,Berawan,4.8,Agam - Tanjung Mutiara,1
+Sumatera Barat,Agam,Ampek Angkek,Batu Taba,-0.3170797825,100.416421662,2026-04-02 08:00:00,20,90,0.2,Berawan,4.8,Agam - Tanjung Mutiara,1
+Sumatera Barat,Agam,Ampek Angkek,Batu Taba,-0.3170797825,100.416421662,2026-04-02 11:00:00,23,76,0.2,Cerah,12.2,Agam - Tanjung Mutiara,1
+Sumatera Barat,Agam,Ampek Angkek,Batu Taba,-0.3170797825,100.416421662,2026-04-02 14:00:00,22,84,1.4,Hujan Ringan,12.2,Agam - Tanjung Mutiara,1
+Sumatera Barat,Agam,Ampek Angkek,Batu Taba,-0.3170797825,100.416421662,2026-04-02 17:00:00,20,95,1.4,Hujan Ringan,3.6,Agam - Tanjung Mutiara,1
+Sumatera Barat,Agam,Ampek Angkek,Batu Taba,-0.3170797825,100.416421662,2026-04-02 20:00:00,18,99,0.0,Berawan,3.6,Agam - Tanjung Mutiara,1
+Sumatera Barat,Agam,Ampek Angkek,Batu Taba,-0.3170797825,100.416421662,2026-04-02 23:00:00,18,99,0.0,Berawan,3.5,Agam - Tanjung Mutiara,1
+Jawa Barat,Cianjur,Haurwangi,Haurwangi,-6.8323875454,107.3129871839,2026-03-31 17:00:00,23,96,1.3,Hujan Ringan,2.9,Cianjur - Cijati,1
+Jawa Barat,Cianjur,Haurwangi,Haurwangi,-6.8323875454,107.3129871839,2026-03-31 20:00:00,23,94,0.0,Berawan,0.3,Cianjur - Cijati,1
+Jawa Barat,Cianjur,Haurwangi,Haurwangi,-6.8323875454,107.3129871839,2026-03-31 23:00:00,22,92,0.0,Cerah,0.5,Cianjur - Cijati,1
+Jawa Barat,Cianjur,Haurwangi,Haurwangi,-6.8323875454,107.3129871839,2026-04-01 02:00:00,21,91,0.0,Cerah,1.2,Cianjur - Cijati,1
+Jawa Barat,Cianjur,Haurwangi,Haurwangi,-6.8323875454,107.3129871839,2026-04-01 05:00:00,21,90,0.0,Cerah,3.3,Cianjur - Cijati,1
+Jawa Barat,Cianjur,Haurwangi,Haurwangi,-6.8323875454,107.3129871839,2026-04-01 08:00:00,26,75,0.0,Cerah,4.0,Cianjur - Cijati,1
+Jawa Barat,Cianjur,Haurwangi,Haurwangi,-6.8323875454,107.3129871839,2026-04-01 11:00:00,29,66,4.3,Hujan Ringan,17.1,Cianjur - Cijati,1
+Jawa Barat,Cianjur,Haurwangi,Haurwangi,-6.8323875454,107.3129871839,2026-04-01 14:00:00,25,90,7.9,Hujan Sedang,7.2,Cianjur - Cijati,1
+Jawa Barat,Cianjur,Haurwangi,Haurwangi,-6.8323875454,107.3129871839,2026-04-01 17:00:00,23,95,2.3,Hujan Ringan,0.6,Cianjur - Cijati,1
+Jawa Barat,Cianjur,Haurwangi,Haurwangi,-6.8323875454,107.3129871839,2026-04-01 20:00:00,23,95,0.0,Berawan,0.6,Cianjur - Cijati,1
+Jawa Barat,Cianjur,Haurwangi,Haurwangi,-6.8323875454,107.3129871839,2026-04-01 23:00:00,22,94,0.0,Berawan,0.4,Cianjur - Cijati,1
+Jawa Barat,Cianjur,Haurwangi,Haurwangi,-6.8323875454,107.3129871839,2026-04-02 02:00:00,22,93,0.0,Cerah,0.5,Cianjur - Cijati,1
+Jawa Barat,Cianjur,Haurwangi,Haurwangi,-6.8323875454,107.3129871839,2026-04-02 05:00:00,21,93,0.0,Cerah Berawan,3.8,Cianjur - Cijati,1
+Jawa Barat,Cianjur,Haurwangi,Haurwangi,-6.8323875454,107.3129871839,2026-04-02 08:00:00,27,76,1.1,Hujan Ringan,3.8,Cianjur - Cijati,1
+Jawa Barat,Cianjur,Haurwangi,Haurwangi,-6.8323875454,107.3129871839,2026-04-02 11:00:00,30,64,1.1,Hujan Ringan,13.4,Cianjur - Cijati,1
+Jawa Barat,Cianjur,Haurwangi,Haurwangi,-6.8323875454,107.3129871839,2026-04-02 14:00:00,26,79,1.3,Hujan Ringan,13.4,Cianjur - Cijati,1
+Jawa Barat,Cianjur,Haurwangi,Haurwangi,-6.8323875454,107.3129871839,2026-04-02 17:00:00,24,92,1.3,Hujan Ringan,2.5,Cianjur - Cijati,1
+Jawa Barat,Cianjur,Haurwangi,Haurwangi,-6.8323875454,107.3129871839,2026-04-02 20:00:00,24,93,0.0,Berawan,2.5,Cianjur - Cijati,1
+Jawa Barat,Cianjur,Haurwangi,Haurwangi,-6.8323875454,107.3129871839,2026-04-02 23:00:00,23,95,0.0,Berawan,0.5,Cianjur - Cijati,1
+Jawa Barat,Cianjur,Sukaluyu,Sindangraja,-6.7788063464,107.2461121678,2026-03-31 16:00:00,25,89,0.8,Berawan,9.5,Cianjur - Karangtengah,1
+Jawa Barat,Cianjur,Sukaluyu,Sindangraja,-6.7788063464,107.2461121678,2026-03-31 19:00:00,24,95,0.0,Berawan,2.9,Cianjur - Karangtengah,1
+Jawa Barat,Cianjur,Sukaluyu,Sindangraja,-6.7788063464,107.2461121678,2026-03-31 22:00:00,23,91,0.0,Berawan,0.3,Cianjur - Karangtengah,1
+Jawa Barat,Cianjur,Sukaluyu,Sindangraja,-6.7788063464,107.2461121678,2026-04-01 01:00:00,22,92,0.0,Cerah,0.5,Cianjur - Karangtengah,1
+Jawa Barat,Cianjur,Sukaluyu,Sindangraja,-6.7788063464,107.2461121678,2026-04-01 04:00:00,21,92,0.0,Cerah,1.2,Cianjur - Karangtengah,1
+Jawa Barat,Cianjur,Sukaluyu,Sindangraja,-6.7788063464,107.2461121678,2026-04-01 07:00:00,25,83,0.0,Cerah,3.3,Cianjur - Karangtengah,1
+Jawa Barat,Cianjur,Sukaluyu,Sindangraja,-6.7788063464,107.2461121678,2026-04-01 10:00:00,29,66,3.8,Hujan Ringan,4.0,Cianjur - Karangtengah,1
+Jawa Barat,Cianjur,Sukaluyu,Sindangraja,-6.7788063464,107.2461121678,2026-04-01 13:00:00,26,86,8.7,Hujan Sedang,17.6,Cianjur - Karangtengah,1
+Jawa Barat,Cianjur,Sukaluyu,Sindangraja,-6.7788063464,107.2461121678,2026-04-01 16:00:00,24,94,2.3,Hujan Ringan,8.4,Cianjur - Karangtengah,1
+Jawa Barat,Cianjur,Sukaluyu,Sindangraja,-6.7788063464,107.2461121678,2026-04-01 19:00:00,23,97,0.0,Berawan,0.6,Cianjur - Karangtengah,1
+Jawa Barat,Cianjur,Sukaluyu,Sindangraja,-6.7788063464,107.2461121678,2026-04-01 22:00:00,23,92,0.0,Berawan,0.6,Cianjur - Karangtengah,1
+Jawa Barat,Cianjur,Sukaluyu,Sindangraja,-6.7788063464,107.2461121678,2026-04-02 01:00:00,22,91,0.0,Cerah,0.4,Cianjur - Karangtengah,1
+Jawa Barat,Cianjur,Sukaluyu,Sindangraja,-6.7788063464,107.2461121678,2026-04-02 04:00:00,22,91,0.0,Cerah Berawan,0.5,Cianjur - Karangtengah,1
+Jawa Barat,Cianjur,Sukaluyu,Sindangraja,-6.7788063464,107.2461121678,2026-04-02 07:00:00,25,86,1.0,Hujan Ringan,3.8,Cianjur - Karangtengah,1
+Jawa Barat,Cianjur,Sukaluyu,Sindangraja,-6.7788063464,107.2461121678,2026-04-02 10:00:00,29,66,1.0,Hujan Ringan,13.1,Cianjur - Karangtengah,1
+Jawa Barat,Cianjur,Sukaluyu,Sindangraja,-6.7788063464,107.2461121678,2026-04-02 13:00:00,28,71,1.3,Hujan Ringan,13.1,Cianjur - Karangtengah,1
+Jawa Barat,Cianjur,Sukaluyu,Sindangraja,-6.7788063464,107.2461121678,2026-04-02 16:00:00,26,84,1.3,Hujan Ringan,2.5,Cianjur - Karangtengah,1
+Jawa Barat,Cianjur,Sukaluyu,Sindangraja,-6.7788063464,107.2461121678,2026-04-02 19:00:00,24,91,0.0,Berawan,2.5,Cianjur - Karangtengah,1
+Jawa Barat,Cianjur,Sukaluyu,Sindangraja,-6.7788063464,107.2461121678,2026-04-02 22:00:00,24,93,0.0,Berawan,0.5,Cianjur - Karangtengah,1
+Jawa Barat,Garut,Cibatu,Sukalilah,-7.0648624483,108.0023132852,2026-03-31 17:00:00,21,96,0.1,Berawan,0.9,Garut - Bayongbong,1
+Jawa Barat,Garut,Cibatu,Sukalilah,-7.0648624483,108.0023132852,2026-03-31 20:00:00,20,99,0.0,Berawan,1.1,Garut - Bayongbong,1
+Jawa Barat,Garut,Cibatu,Sukalilah,-7.0648624483,108.0023132852,2026-03-31 23:00:00,18,99,0.0,Berawan,2.4,Garut - Bayongbong,1
+Jawa Barat,Garut,Cibatu,Sukalilah,-7.0648624483,108.0023132852,2026-04-01 02:00:00,18,99,0.0,Berawan,2.4,Garut - Bayongbong,1
+Jawa Barat,Garut,Cibatu,Sukalilah,-7.0648624483,108.0023132852,2026-04-01 05:00:00,17,99,0.0,Cerah Berawan,3.5,Garut - Bayongbong,1
+Jawa Barat,Garut,Cibatu,Sukalilah,-7.0648624483,108.0023132852,2026-04-01 08:00:00,25,73,0.1,Cerah,3.6,Garut - Bayongbong,1
+Jawa Barat,Garut,Cibatu,Sukalilah,-7.0648624483,108.0023132852,2026-04-01 11:00:00,27,65,3.7,Hujan Ringan,9.1,Garut - Bayongbong,1
+Jawa Barat,Garut,Cibatu,Sukalilah,-7.0648624483,108.0023132852,2026-04-01 14:00:00,23,85,5.9,Hujan Sedang,8.2,Garut - Bayongbong,1
+Jawa Barat,Garut,Cibatu,Sukalilah,-7.0648624483,108.0023132852,2026-04-01 17:00:00,21,98,0.4,Berawan,1.8,Garut - Bayongbong,1
+Jawa Barat,Garut,Cibatu,Sukalilah,-7.0648624483,108.0023132852,2026-04-01 20:00:00,20,98,0.0,Berawan,0.3,Garut - Bayongbong,1
+Jawa Barat,Garut,Cibatu,Sukalilah,-7.0648624483,108.0023132852,2026-04-01 23:00:00,19,99,0.0,Berawan,0.4,Garut - Bayongbong,1
+Jawa Barat,Garut,Cibatu,Sukalilah,-7.0648624483,108.0023132852,2026-04-02 02:00:00,18,98,0.0,Cerah Berawan,2.7,Garut - Bayongbong,1
+Jawa Barat,Garut,Cibatu,Sukalilah,-7.0648624483,108.0023132852,2026-04-02 05:00:00,18,96,0.0,Cerah,3.6,Garut - Bayongbong,1
+Jawa Barat,Garut,Cibatu,Sukalilah,-7.0648624483,108.0023132852,2026-04-02 08:00:00,25,74,1.3,Hujan Ringan,3.6,Garut - Bayongbong,1
+Jawa Barat,Garut,Cibatu,Sukalilah,-7.0648624483,108.0023132852,2026-04-02 11:00:00,27,65,1.3,Hujan Ringan,11.5,Garut - Bayongbong,1
+Jawa Barat,Garut,Cibatu,Sukalilah,-7.0648624483,108.0023132852,2026-04-02 14:00:00,24,83,1.8,Hujan Ringan,11.5,Garut - Bayongbong,1
+Jawa Barat,Garut,Cibatu,Sukalilah,-7.0648624483,108.0023132852,2026-04-02 17:00:00,21,96,1.8,Hujan Ringan,3.0,Garut - Bayongbong,1
+Jawa Barat,Garut,Cibatu,Sukalilah,-7.0648624483,108.0023132852,2026-04-02 20:00:00,20,99,0.0,Berawan,3.0,Garut - Bayongbong,1
+Jawa Barat,Garut,Cibatu,Sukalilah,-7.0648624483,108.0023132852,2026-04-02 23:00:00,19,99,0.0,Berawan,3.3,Garut - Bayongbong,1
+Jawa Barat,Garut,Cilawu,Karyamekar,-7.2849258983,107.9183036885,2026-03-31 17:00:00,20,95,0.1,Berawan,1.0,Garut - Bungbulang,1
+Jawa Barat,Garut,Cilawu,Karyamekar,-7.2849258983,107.9183036885,2026-03-31 20:00:00,19,97,0.0,Cerah,1.5,Garut - Bungbulang,1
+Jawa Barat,Garut,Cilawu,Karyamekar,-7.2849258983,107.9183036885,2026-03-31 23:00:00,18,96,0.0,Cerah,3.0,Garut - Bungbulang,1
+Jawa Barat,Garut,Cilawu,Karyamekar,-7.2849258983,107.9183036885,2026-04-01 02:00:00,17,95,0.0,Cerah,2.2,Garut - Bungbulang,1
+Jawa Barat,Garut,Cilawu,Karyamekar,-7.2849258983,107.9183036885,2026-04-01 05:00:00,17,92,0.0,Cerah,2.6,Garut - Bungbulang,1
+Jawa Barat,Garut,Cilawu,Karyamekar,-7.2849258983,107.9183036885,2026-04-01 08:00:00,24,75,0.0,Cerah,4.7,Garut - Bungbulang,1
+Jawa Barat,Garut,Cilawu,Karyamekar,-7.2849258983,107.9183036885,2026-04-01 11:00:00,23,80,5.5,Hujan Sedang,11.3,Garut - Bungbulang,1
+Jawa Barat,Garut,Cilawu,Karyamekar,-7.2849258983,107.9183036885,2026-04-01 14:00:00,22,87,5.5,Hujan Petir,8.4,Garut - Bungbulang,1
+Jawa Barat,Garut,Cilawu,Karyamekar,-7.2849258983,107.9183036885,2026-04-01 17:00:00,20,98,0.4,Berawan,1.4,Garut - Bungbulang,1
+Jawa Barat,Garut,Cilawu,Karyamekar,-7.2849258983,107.9183036885,2026-04-01 20:00:00,19,96,0.0,Berawan,1.0,Garut - Bungbulang,1
+Jawa Barat,Garut,Cilawu,Karyamekar,-7.2849258983,107.9183036885,2026-04-01 23:00:00,18,92,0.0,Cerah Berawan,1.9,Garut - Bungbulang,1
+Jawa Barat,Garut,Cilawu,Karyamekar,-7.2849258983,107.9183036885,2026-04-02 02:00:00,18,91,0.0,Cerah Berawan,1.3,Garut - Bungbulang,1
+Jawa Barat,Garut,Cilawu,Karyamekar,-7.2849258983,107.9183036885,2026-04-02 05:00:00,17,91,0.0,Cerah,2.3,Garut - Bungbulang,1
+Jawa Barat,Garut,Cilawu,Karyamekar,-7.2849258983,107.9183036885,2026-04-02 08:00:00,23,79,1.0,Hujan Ringan,2.3,Garut - Bungbulang,1
+Jawa Barat,Garut,Cilawu,Karyamekar,-7.2849258983,107.9183036885,2026-04-02 11:00:00,26,70,1.0,Hujan Ringan,9.0,Garut - Bungbulang,1
+Jawa Barat,Garut,Cilawu,Karyamekar,-7.2849258983,107.9183036885,2026-04-02 14:00:00,21,90,2.3,Hujan Ringan,9.0,Garut - Bungbulang,1
+Jawa Barat,Garut,Cilawu,Karyamekar,-7.2849258983,107.9183036885,2026-04-02 17:00:00,20,98,2.3,Hujan Ringan,1.2,Garut - Bungbulang,1
+Jawa Barat,Garut,Cilawu,Karyamekar,-7.2849258983,107.9183036885,2026-04-02 20:00:00,19,99,0.0,Berawan,1.2,Garut - Bungbulang,1
+Jawa Barat,Garut,Cilawu,Karyamekar,-7.2849258983,107.9183036885,2026-04-02 23:00:00,18,99,0.0,Berawan,2.7,Garut - Bungbulang,1
+Jawa Timur,Lumajang,Yosowilangun,Darungan,-8.2571099107,113.2515680046,2026-03-31 17:00:00,25,93,0.3,Berawan,11.2,Lumajang - Candipuro,1
+Jawa Timur,Lumajang,Yosowilangun,Darungan,-8.2571099107,113.2515680046,2026-03-31 20:00:00,23,85,0.3,Berawan,4.0,Lumajang - Candipuro,1
+Jawa Timur,Lumajang,Yosowilangun,Darungan,-8.2571099107,113.2515680046,2026-03-31 23:00:00,24,90,0.0,Cerah,2.9,Lumajang - Candipuro,1
+Jawa Timur,Lumajang,Yosowilangun,Darungan,-8.2571099107,113.2515680046,2026-04-01 02:00:00,23,92,0.0,Cerah,4.1,Lumajang - Candipuro,1
+Jawa Timur,Lumajang,Yosowilangun,Darungan,-8.2571099107,113.2515680046,2026-04-01 05:00:00,23,95,0.0,Cerah,2.7,Lumajang - Candipuro,1
+Jawa Timur,Lumajang,Yosowilangun,Darungan,-8.2571099107,113.2515680046,2026-04-01 08:00:00,28,77,0.0,Cerah,5.1,Lumajang - Candipuro,1
+Jawa Timur,Lumajang,Yosowilangun,Darungan,-8.2571099107,113.2515680046,2026-04-01 11:00:00,31,68,0.2,Cerah,18.5,Lumajang - Candipuro,1
+Jawa Timur,Lumajang,Yosowilangun,Darungan,-8.2571099107,113.2515680046,2026-04-01 14:00:00,29,78,0.8,Cerah Berawan,12.1,Lumajang - Candipuro,1
+Jawa Timur,Lumajang,Yosowilangun,Darungan,-8.2571099107,113.2515680046,2026-04-01 17:00:00,24,94,1.3,Hujan Ringan,6.9,Lumajang - Candipuro,1
+Jawa Timur,Lumajang,Yosowilangun,Darungan,-8.2571099107,113.2515680046,2026-04-01 20:00:00,24,94,0.0,Cerah,2.1,Lumajang - Candipuro,1
+Jawa Timur,Lumajang,Yosowilangun,Darungan,-8.2571099107,113.2515680046,2026-04-01 23:00:00,24,95,0.0,Cerah Berawan,3.5,Lumajang - Candipuro,1
+Jawa Timur,Lumajang,Yosowilangun,Darungan,-8.2571099107,113.2515680046,2026-04-02 02:00:00,23,95,0.0,Cerah,2.8,Lumajang - Candipuro,1
+Jawa Timur,Lumajang,Yosowilangun,Darungan,-8.2571099107,113.2515680046,2026-04-02 05:00:00,24,94,0.0,Cerah Berawan,1.5,Lumajang - Candipuro,1
+Jawa Timur,Lumajang,Yosowilangun,Darungan,-8.2571099107,113.2515680046,2026-04-02 08:00:00,28,81,0.5,Cerah Berawan,1.5,Lumajang - Candipuro,1
+Jawa Timur,Lumajang,Yosowilangun,Darungan,-8.2571099107,113.2515680046,2026-04-02 11:00:00,28,83,0.5,Berawan,18.5,Lumajang - Candipuro,1
+Jawa Timur,Lumajang,Yosowilangun,Darungan,-8.2571099107,113.2515680046,2026-04-02 14:00:00,28,84,0.7,Berawan,18.5,Lumajang - Candipuro,1
+Jawa Timur,Lumajang,Yosowilangun,Darungan,-8.2571099107,113.2515680046,2026-04-02 17:00:00,26,93,0.7,Berawan,4.3,Lumajang - Candipuro,1
+Jawa Timur,Lumajang,Yosowilangun,Darungan,-8.2571099107,113.2515680046,2026-04-02 20:00:00,25,93,0.0,Berawan,4.3,Lumajang - Candipuro,1
+Jawa Timur,Lumajang,Yosowilangun,Darungan,-8.2571099107,113.2515680046,2026-04-02 23:00:00,24,94,0.0,Berawan,2.8,Lumajang - Candipuro,1
+Jawa Timur,Lumajang,Pasrujambe,Pasrujambe,-8.0859348235,112.9712375418,2026-03-31 17:00:00,18,97,1.4,Hujan Ringan,2.2,Lumajang - Pronojiwo,1
+Jawa Timur,Lumajang,Pasrujambe,Pasrujambe,-8.0859348235,112.9712375418,2026-03-31 20:00:00,18,98,0.0,Berawan,1.2,Lumajang - Pronojiwo,1
+Jawa Timur,Lumajang,Pasrujambe,Pasrujambe,-8.0859348235,112.9712375418,2026-03-31 23:00:00,17,96,0.3,Cerah,0.6,Lumajang - Pronojiwo,1
+Jawa Timur,Lumajang,Pasrujambe,Pasrujambe,-8.0859348235,112.9712375418,2026-04-01 02:00:00,16,93,0.0,Cerah,0.8,Lumajang - Pronojiwo,1
+Jawa Timur,Lumajang,Pasrujambe,Pasrujambe,-8.0859348235,112.9712375418,2026-04-01 05:00:00,16,90,0.0,Cerah,3.0,Lumajang - Pronojiwo,1
+Jawa Timur,Lumajang,Pasrujambe,Pasrujambe,-8.0859348235,112.9712375418,2026-04-01 08:00:00,21,77,0.0,Cerah,8.9,Lumajang - Pronojiwo,1
+Jawa Timur,Lumajang,Pasrujambe,Pasrujambe,-8.0859348235,112.9712375418,2026-04-01 11:00:00,23,71,0.5,Cerah,18.5,Lumajang - Pronojiwo,1
+Jawa Timur,Lumajang,Pasrujambe,Pasrujambe,-8.0859348235,112.9712375418,2026-04-01 14:00:00,20,85,0.5,Cerah Berawan,5.2,Lumajang - Pronojiwo,1
+Jawa Timur,Lumajang,Pasrujambe,Pasrujambe,-8.0859348235,112.9712375418,2026-04-01 17:00:00,18,98,0.4,Udara Kabur,2.6,Lumajang - Pronojiwo,1
+Jawa Timur,Lumajang,Pasrujambe,Pasrujambe,-8.0859348235,112.9712375418,2026-04-01 20:00:00,17,94,0.0,Cerah Berawan,0.9,Lumajang - Pronojiwo,1
+Jawa Timur,Lumajang,Pasrujambe,Pasrujambe,-8.0859348235,112.9712375418,2026-04-01 23:00:00,17,90,0.0,Cerah Berawan,0.2,Lumajang - Pronojiwo,1
+Jawa Timur,Lumajang,Pasrujambe,Pasrujambe,-8.0859348235,112.9712375418,2026-04-02 02:00:00,17,92,0.0,Cerah,0.4,Lumajang - Pronojiwo,1
+Jawa Timur,Lumajang,Pasrujambe,Pasrujambe,-8.0859348235,112.9712375418,2026-04-02 05:00:00,16,93,0.0,Cerah,2.6,Lumajang - Pronojiwo,1
+Jawa Timur,Lumajang,Pasrujambe,Pasrujambe,-8.0859348235,112.9712375418,2026-04-02 08:00:00,21,83,0.4,Cerah Berawan,2.6,Lumajang - Pronojiwo,1
+Jawa Timur,Lumajang,Pasrujambe,Pasrujambe,-8.0859348235,112.9712375418,2026-04-02 11:00:00,20,90,0.4,Berawan,18.5,Lumajang - Pronojiwo,1
+Jawa Timur,Lumajang,Pasrujambe,Pasrujambe,-8.0859348235,112.9712375418,2026-04-02 14:00:00,20,94,0.8,Berawan,18.5,Lumajang - Pronojiwo,1
+Jawa Timur,Lumajang,Pasrujambe,Pasrujambe,-8.0859348235,112.9712375418,2026-04-02 17:00:00,18,99,0.8,Berawan,0.9,Lumajang - Pronojiwo,1
+Jawa Timur,Lumajang,Pasrujambe,Pasrujambe,-8.0859348235,112.9712375418,2026-04-02 20:00:00,17,96,0.0,Berawan,0.9,Lumajang - Pronojiwo,1
+Jawa Timur,Lumajang,Pasrujambe,Pasrujambe,-8.0859348235,112.9712375418,2026-04-02 23:00:00,17,96,0.0,Udara Kabur,1.8,Lumajang - Pronojiwo,1
+Jawa Timur,Lumajang,Tekung,Wonogriyo,-8.2061692963,113.2649571003,2026-03-31 17:00:00,24,95,0.2,Berawan,10.4,Lumajang - Tempeh,1
+Jawa Timur,Lumajang,Tekung,Wonogriyo,-8.2061692963,113.2649571003,2026-03-31 20:00:00,22,87,0.1,Berawan,2.6,Lumajang - Tempeh,1
+Jawa Timur,Lumajang,Tekung,Wonogriyo,-8.2061692963,113.2649571003,2026-03-31 23:00:00,23,94,0.0,Cerah,2.3,Lumajang - Tempeh,1
+Jawa Timur,Lumajang,Tekung,Wonogriyo,-8.2061692963,113.2649571003,2026-04-01 02:00:00,22,96,0.0,Cerah,4.1,Lumajang - Tempeh,1
+Jawa Timur,Lumajang,Tekung,Wonogriyo,-8.2061692963,113.2649571003,2026-04-01 05:00:00,22,97,0.0,Cerah,3.4,Lumajang - Tempeh,1
+Jawa Timur,Lumajang,Tekung,Wonogriyo,-8.2061692963,113.2649571003,2026-04-01 08:00:00,28,76,0.0,Cerah,3.4,Lumajang - Tempeh,1
+Jawa Timur,Lumajang,Tekung,Wonogriyo,-8.2061692963,113.2649571003,2026-04-01 11:00:00,32,63,0.2,Cerah,18.5,Lumajang - Tempeh,1
+Jawa Timur,Lumajang,Tekung,Wonogriyo,-8.2061692963,113.2649571003,2026-04-01 14:00:00,29,78,0.6,Cerah,4.2,Lumajang - Tempeh,1
+Jawa Timur,Lumajang,Tekung,Wonogriyo,-8.2061692963,113.2649571003,2026-04-01 17:00:00,25,94,0.8,Cerah Berawan,5.4,Lumajang - Tempeh,1
+Jawa Timur,Lumajang,Tekung,Wonogriyo,-8.2061692963,113.2649571003,2026-04-01 20:00:00,24,97,0.0,Cerah,2.0,Lumajang - Tempeh,1
+Jawa Timur,Lumajang,Tekung,Wonogriyo,-8.2061692963,113.2649571003,2026-04-01 23:00:00,23,98,0.0,Cerah Berawan,1.5,Lumajang - Tempeh,1
+Jawa Timur,Lumajang,Tekung,Wonogriyo,-8.2061692963,113.2649571003,2026-04-02 02:00:00,22,97,0.0,Cerah Berawan,2.4,Lumajang - Tempeh,1
+Jawa Timur,Lumajang,Tekung,Wonogriyo,-8.2061692963,113.2649571003,2026-04-02 05:00:00,23,96,0.0,Cerah Berawan,1.1,Lumajang - Tempeh,1
+Jawa Timur,Lumajang,Tekung,Wonogriyo,-8.2061692963,113.2649571003,2026-04-02 08:00:00,29,81,0.4,Cerah,1.1,Lumajang - Tempeh,1
+Jawa Timur,Lumajang,Tekung,Wonogriyo,-8.2061692963,113.2649571003,2026-04-02 11:00:00,29,80,0.4,Berawan,18.5,Lumajang - Tempeh,1
+Jawa Timur,Lumajang,Tekung,Wonogriyo,-8.2061692963,113.2649571003,2026-04-02 14:00:00,28,86,0.9,Berawan,18.5,Lumajang - Tempeh,1
+Jawa Timur,Lumajang,Tekung,Wonogriyo,-8.2061692963,113.2649571003,2026-04-02 17:00:00,25,97,0.9,Berawan,3.8,Lumajang - Tempeh,1
+Jawa Timur,Lumajang,Tekung,Wonogriyo,-8.2061692963,113.2649571003,2026-04-02 20:00:00,24,96,0.0,Berawan,3.8,Lumajang - Tempeh,1
+Jawa Timur,Lumajang,Tekung,Wonogriyo,-8.2061692963,113.2649571003,2026-04-02 23:00:00,23,96,0.0,Berawan,1.6,Lumajang - Tempeh,1
+Sulawesi Barat,Pasangkayu,Dapurang,Dapurang,-1.7327820932,119.3582019818,2026-03-31 18:00:00,28,74,0.0,Cerah,1.5,Majene - Malunda,1
+Sulawesi Barat,Pasangkayu,Dapurang,Dapurang,-1.7327820932,119.3582019818,2026-03-31 21:00:00,27,80,0.0,Cerah,6.4,Majene - Malunda,1
+Sulawesi Barat,Pasangkayu,Dapurang,Dapurang,-1.7327820932,119.3582019818,2026-04-01 00:00:00,26,87,0.0,Cerah,3.9,Majene - Malunda,1
+Sulawesi Barat,Pasangkayu,Dapurang,Dapurang,-1.7327820932,119.3582019818,2026-04-01 03:00:00,25,87,0.0,Cerah,4.9,Majene - Malunda,1
+Sulawesi Barat,Pasangkayu,Dapurang,Dapurang,-1.7327820932,119.3582019818,2026-04-01 06:00:00,26,81,0.0,Cerah,0.9,Majene - Malunda,1
+Sulawesi Barat,Pasangkayu,Dapurang,Dapurang,-1.7327820932,119.3582019818,2026-04-01 09:00:00,30,64,0.0,Cerah,9.6,Majene - Malunda,1
+Sulawesi Barat,Pasangkayu,Dapurang,Dapurang,-1.7327820932,119.3582019818,2026-04-01 12:00:00,31,67,0.2,Cerah,6.5,Majene - Malunda,1
+Sulawesi Barat,Pasangkayu,Dapurang,Dapurang,-1.7327820932,119.3582019818,2026-04-01 15:00:00,29,72,1.7,Hujan Ringan,2.9,Majene - Malunda,1
+Sulawesi Barat,Pasangkayu,Dapurang,Dapurang,-1.7327820932,119.3582019818,2026-04-01 18:00:00,28,79,0.0,Cerah,2.6,Majene - Malunda,1
+Sulawesi Barat,Pasangkayu,Dapurang,Dapurang,-1.7327820932,119.3582019818,2026-04-01 21:00:00,27,86,0.0,Cerah,3.0,Majene - Malunda,1
+Sulawesi Barat,Pasangkayu,Dapurang,Dapurang,-1.7327820932,119.3582019818,2026-04-02 00:00:00,25,90,1.7,Hujan Ringan,5.1,Majene - Malunda,1
+Sulawesi Barat,Pasangkayu,Dapurang,Dapurang,-1.7327820932,119.3582019818,2026-04-02 03:00:00,25,94,1.7,Hujan Ringan,4.9,Majene - Malunda,1
+Sulawesi Barat,Pasangkayu,Dapurang,Dapurang,-1.7327820932,119.3582019818,2026-04-02 06:00:00,25,93,0.0,Cerah,2.1,Majene - Malunda,1
+Sulawesi Barat,Pasangkayu,Dapurang,Dapurang,-1.7327820932,119.3582019818,2026-04-02 09:00:00,27,82,0.8,Cerah,2.1,Majene - Malunda,1
+Sulawesi Barat,Pasangkayu,Dapurang,Dapurang,-1.7327820932,119.3582019818,2026-04-02 12:00:00,28,79,0.8,Cerah,4.0,Majene - Malunda,1
+Sulawesi Barat,Pasangkayu,Dapurang,Dapurang,-1.7327820932,119.3582019818,2026-04-02 15:00:00,27,81,0.8,Cerah,4.0,Majene - Malunda,1
+Sulawesi Barat,Pasangkayu,Dapurang,Dapurang,-1.7327820932,119.3582019818,2026-04-02 18:00:00,26,89,0.8,Cerah,3.2,Majene - Malunda,1
+Sulawesi Barat,Pasangkayu,Dapurang,Dapurang,-1.7327820932,119.3582019818,2026-04-02 21:00:00,25,94,0.8,Cerah,3.2,Majene - Malunda,1
+Sulawesi Selatan,Maros,Tompobulu,Tompobulu,-5.1366865648,119.6987613201,2026-03-31 18:00:00,24,95,0.0,Berawan,0.8,Maros - Tanralili,1
+Sulawesi Selatan,Maros,Tompobulu,Tompobulu,-5.1366865648,119.6987613201,2026-03-31 21:00:00,23,93,0.0,Berawan,1.5,Maros - Tanralili,1
+Sulawesi Selatan,Maros,Tompobulu,Tompobulu,-5.1366865648,119.6987613201,2026-04-01 00:00:00,22,94,0.0,Berawan,2.7,Maros - Tanralili,1
+Sulawesi Selatan,Maros,Tompobulu,Tompobulu,-5.1366865648,119.6987613201,2026-04-01 03:00:00,22,95,0.0,Berawan,4.0,Maros - Tanralili,1
+Sulawesi Selatan,Maros,Tompobulu,Tompobulu,-5.1366865648,119.6987613201,2026-04-01 06:00:00,23,96,0.0,Cerah Berawan,1.7,Maros - Tanralili,1
+Sulawesi Selatan,Maros,Tompobulu,Tompobulu,-5.1366865648,119.6987613201,2026-04-01 09:00:00,28,79,0.0,Cerah,6.3,Maros - Tanralili,1
+Sulawesi Selatan,Maros,Tompobulu,Tompobulu,-5.1366865648,119.6987613201,2026-04-01 12:00:00,28,89,5.3,Hujan Sedang,4.6,Maros - Tanralili,1
+Sulawesi Selatan,Maros,Tompobulu,Tompobulu,-5.1366865648,119.6987613201,2026-04-01 15:00:00,27,88,0.2,Berawan,2.2,Maros - Tanralili,1
+Sulawesi Selatan,Maros,Tompobulu,Tompobulu,-5.1366865648,119.6987613201,2026-04-01 18:00:00,24,95,0.0,Berawan,1.2,Maros - Tanralili,1
+Sulawesi Selatan,Maros,Tompobulu,Tompobulu,-5.1366865648,119.6987613201,2026-04-01 21:00:00,24,92,0.0,Berawan,3.8,Maros - Tanralili,1
+Sulawesi Selatan,Maros,Tompobulu,Tompobulu,-5.1366865648,119.6987613201,2026-04-02 00:00:00,23,91,0.6,Berawan,2.8,Maros - Tanralili,1
+Sulawesi Selatan,Maros,Tompobulu,Tompobulu,-5.1366865648,119.6987613201,2026-04-02 03:00:00,23,94,0.0,Berawan,2.8,Maros - Tanralili,1
+Sulawesi Selatan,Maros,Tompobulu,Tompobulu,-5.1366865648,119.6987613201,2026-04-02 06:00:00,23,95,0.0,Berawan,2.8,Maros - Tanralili,1
+Sulawesi Selatan,Maros,Tompobulu,Tompobulu,-5.1366865648,119.6987613201,2026-04-02 09:00:00,29,78,1.3,Hujan Ringan,2.8,Maros - Tanralili,1
+Sulawesi Selatan,Maros,Tompobulu,Tompobulu,-5.1366865648,119.6987613201,2026-04-02 12:00:00,28,89,1.3,Hujan Ringan,7.4,Maros - Tanralili,1
+Sulawesi Selatan,Maros,Tompobulu,Tompobulu,-5.1366865648,119.6987613201,2026-04-02 15:00:00,27,94,1.3,Hujan Ringan,7.4,Maros - Tanralili,1
+Sulawesi Selatan,Maros,Tompobulu,Tompobulu,-5.1366865648,119.6987613201,2026-04-02 18:00:00,24,98,1.3,Hujan Ringan,0.3,Maros - Tanralili,1
+Sulawesi Selatan,Maros,Tompobulu,Tompobulu,-5.1366865648,119.6987613201,2026-04-02 21:00:00,23,95,0.0,Berawan,0.3,Maros - Tanralili,1
+Sumatera Barat,Kepulauan Mentawai,Sipora Selatan,Bosua,-2.3479164995,99.8238922226,2026-03-31 17:00:00,28,77,0.4,Berawan,7.6,Padang Pariaman - Lubuk Alung,1
+Sumatera Barat,Kepulauan Mentawai,Sipora Selatan,Bosua,-2.3479164995,99.8238922226,2026-03-31 20:00:00,26,86,1.1,Hujan Ringan,8.4,Padang Pariaman - Lubuk Alung,1
+Sumatera Barat,Kepulauan Mentawai,Sipora Selatan,Bosua,-2.3479164995,99.8238922226,2026-03-31 23:00:00,27,83,0.1,Berawan,6.0,Padang Pariaman - Lubuk Alung,1
+Sumatera Barat,Kepulauan Mentawai,Sipora Selatan,Bosua,-2.3479164995,99.8238922226,2026-04-01 02:00:00,27,82,0.4,Berawan,8.8,Padang Pariaman - Lubuk Alung,1
+Sumatera Barat,Kepulauan Mentawai,Sipora Selatan,Bosua,-2.3479164995,99.8238922226,2026-04-01 05:00:00,26,85,0.8,Berawan,3.9,Padang Pariaman - Lubuk Alung,1
+Sumatera Barat,Kepulauan Mentawai,Sipora Selatan,Bosua,-2.3479164995,99.8238922226,2026-04-01 08:00:00,27,84,0.7,Berawan,4.8,Padang Pariaman - Lubuk Alung,1
+Sumatera Barat,Kepulauan Mentawai,Sipora Selatan,Bosua,-2.3479164995,99.8238922226,2026-04-01 11:00:00,27,83,0.1,Berawan,2.7,Padang Pariaman - Lubuk Alung,1
+Sumatera Barat,Kepulauan Mentawai,Sipora Selatan,Bosua,-2.3479164995,99.8238922226,2026-04-01 14:00:00,27,81,1.7,Hujan Ringan,10.1,Padang Pariaman - Lubuk Alung,1
+Sumatera Barat,Kepulauan Mentawai,Sipora Selatan,Bosua,-2.3479164995,99.8238922226,2026-04-01 17:00:00,27,83,0.1,Petir,4.2,Padang Pariaman - Lubuk Alung,1
+Sumatera Barat,Kepulauan Mentawai,Sipora Selatan,Bosua,-2.3479164995,99.8238922226,2026-04-01 20:00:00,27,84,0.3,Berawan,4.6,Padang Pariaman - Lubuk Alung,1
+Sumatera Barat,Kepulauan Mentawai,Sipora Selatan,Bosua,-2.3479164995,99.8238922226,2026-04-01 23:00:00,27,82,0.1,Berawan,6.4,Padang Pariaman - Lubuk Alung,1
+Sumatera Barat,Kepulauan Mentawai,Sipora Selatan,Bosua,-2.3479164995,99.8238922226,2026-04-02 02:00:00,27,82,0.0,Berawan,7.3,Padang Pariaman - Lubuk Alung,1
+Sumatera Barat,Kepulauan Mentawai,Sipora Selatan,Bosua,-2.3479164995,99.8238922226,2026-04-02 05:00:00,28,81,0.0,Berawan,11.5,Padang Pariaman - Lubuk Alung,1
+Sumatera Barat,Kepulauan Mentawai,Sipora Selatan,Bosua,-2.3479164995,99.8238922226,2026-04-02 08:00:00,28,80,0.0,Cerah,11.5,Padang Pariaman - Lubuk Alung,1
+Sumatera Barat,Kepulauan Mentawai,Sipora Selatan,Bosua,-2.3479164995,99.8238922226,2026-04-02 11:00:00,29,75,0.0,Berawan,4.1,Padang Pariaman - Lubuk Alung,1
+Sumatera Barat,Kepulauan Mentawai,Sipora Selatan,Bosua,-2.3479164995,99.8238922226,2026-04-02 14:00:00,29,73,0.1,Cerah Berawan,4.1,Padang Pariaman - Lubuk Alung,1
+Sumatera Barat,Kepulauan Mentawai,Sipora Selatan,Bosua,-2.3479164995,99.8238922226,2026-04-02 17:00:00,29,75,0.1,Berawan,10.4,Padang Pariaman - Lubuk Alung,1
+Sumatera Barat,Kepulauan Mentawai,Sipora Selatan,Bosua,-2.3479164995,99.8238922226,2026-04-02 20:00:00,28,79,0.3,Berawan,10.4,Padang Pariaman - Lubuk Alung,1
+Sumatera Barat,Kepulauan Mentawai,Sipora Selatan,Bosua,-2.3479164995,99.8238922226,2026-04-02 23:00:00,28,83,0.3,Berawan,2.3,Padang Pariaman - Lubuk Alung,1
+Jawa Barat,Sukabumi,Pabuaran,Pabuaran,-7.213835231,106.8291636112,2026-03-31 17:00:00,23,96,1.4,Hujan Ringan,1.5,Sukabumi - Cisolok,1
+Jawa Barat,Sukabumi,Pabuaran,Pabuaran,-7.213835231,106.8291636112,2026-03-31 20:00:00,23,95,0.0,Berawan,1.6,Sukabumi - Cisolok,1
+Jawa Barat,Sukabumi,Pabuaran,Pabuaran,-7.213835231,106.8291636112,2026-03-31 23:00:00,22,96,0.0,Cerah Berawan,4.2,Sukabumi - Cisolok,1
+Jawa Barat,Sukabumi,Pabuaran,Pabuaran,-7.213835231,106.8291636112,2026-04-01 02:00:00,21,94,0.0,Cerah,2.6,Sukabumi - Cisolok,1
+Jawa Barat,Sukabumi,Pabuaran,Pabuaran,-7.213835231,106.8291636112,2026-04-01 05:00:00,22,90,0.0,Cerah,1.7,Sukabumi - Cisolok,1
+Jawa Barat,Sukabumi,Pabuaran,Pabuaran,-7.213835231,106.8291636112,2026-04-01 08:00:00,26,80,0.0,Cerah,6.9,Sukabumi - Cisolok,1
+Jawa Barat,Sukabumi,Pabuaran,Pabuaran,-7.213835231,106.8291636112,2026-04-01 11:00:00,26,82,4.1,Hujan Ringan,15.1,Sukabumi - Cisolok,1
+Jawa Barat,Sukabumi,Pabuaran,Pabuaran,-7.213835231,106.8291636112,2026-04-01 14:00:00,24,91,6.6,Hujan Sedang,6.5,Sukabumi - Cisolok,1
+Jawa Barat,Sukabumi,Pabuaran,Pabuaran,-7.213835231,106.8291636112,2026-04-01 17:00:00,23,97,1.9,Hujan Ringan,2.4,Sukabumi - Cisolok,1
+Jawa Barat,Sukabumi,Pabuaran,Pabuaran,-7.213835231,106.8291636112,2026-04-01 20:00:00,22,96,0.0,Berawan,1.6,Sukabumi - Cisolok,1
+Jawa Barat,Sukabumi,Pabuaran,Pabuaran,-7.213835231,106.8291636112,2026-04-01 23:00:00,22,93,0.0,Berawan,1.2,Sukabumi - Cisolok,1
+Jawa Barat,Sukabumi,Pabuaran,Pabuaran,-7.213835231,106.8291636112,2026-04-02 02:00:00,22,90,0.0,Cerah,0.5,Sukabumi - Cisolok,1
+Jawa Barat,Sukabumi,Pabuaran,Pabuaran,-7.213835231,106.8291636112,2026-04-02 05:00:00,22,90,0.0,Berawan,3.5,Sukabumi - Cisolok,1
+Jawa Barat,Sukabumi,Pabuaran,Pabuaran,-7.213835231,106.8291636112,2026-04-02 08:00:00,26,81,1.3,Hujan Ringan,3.5,Sukabumi - Cisolok,1
+Jawa Barat,Sukabumi,Pabuaran,Pabuaran,-7.213835231,106.8291636112,2026-04-02 11:00:00,28,76,1.3,Hujan Ringan,12.0,Sukabumi - Cisolok,1
+Jawa Barat,Sukabumi,Pabuaran,Pabuaran,-7.213835231,106.8291636112,2026-04-02 14:00:00,25,87,1.3,Hujan Ringan,12.0,Sukabumi - Cisolok,1
+Jawa Barat,Sukabumi,Pabuaran,Pabuaran,-7.213835231,106.8291636112,2026-04-02 17:00:00,23,97,1.3,Hujan Ringan,1.8,Sukabumi - Cisolok,1
+Jawa Barat,Sukabumi,Pabuaran,Pabuaran,-7.213835231,106.8291636112,2026-04-02 20:00:00,22,97,0.0,Berawan,1.8,Sukabumi - Cisolok,1
+Jawa Barat,Sukabumi,Pabuaran,Pabuaran,-7.213835231,106.8291636112,2026-04-02 23:00:00,22,93,0.0,Berawan,1.7,Sukabumi - Cisolok,1
+Jawa Barat,Sukabumi,Cicantayan,Cicantayan,-6.9261145559,106.8466875206,2026-03-31 17:00:00,23,92,1.0,Berawan,0.9,Sukabumi - Nyalindung,1
+Jawa Barat,Sukabumi,Cicantayan,Cicantayan,-6.9261145559,106.8466875206,2026-03-31 20:00:00,22,94,0.0,Berawan,2.4,Sukabumi - Nyalindung,1
+Jawa Barat,Sukabumi,Cicantayan,Cicantayan,-6.9261145559,106.8466875206,2026-03-31 23:00:00,21,94,0.0,Cerah,7.1,Sukabumi - Nyalindung,1
+Jawa Barat,Sukabumi,Cicantayan,Cicantayan,-6.9261145559,106.8466875206,2026-04-01 02:00:00,20,94,0.0,Cerah,6.7,Sukabumi - Nyalindung,1
+Jawa Barat,Sukabumi,Cicantayan,Cicantayan,-6.9261145559,106.8466875206,2026-04-01 05:00:00,20,92,0.0,Cerah,4.1,Sukabumi - Nyalindung,1
+Jawa Barat,Sukabumi,Cicantayan,Cicantayan,-6.9261145559,106.8466875206,2026-04-01 08:00:00,26,75,0.1,Cerah,6.0,Sukabumi - Nyalindung,1
+Jawa Barat,Sukabumi,Cicantayan,Cicantayan,-6.9261145559,106.8466875206,2026-04-01 11:00:00,27,71,3.4,Hujan Ringan,19.1,Sukabumi - Nyalindung,1
+Jawa Barat,Sukabumi,Cicantayan,Cicantayan,-6.9261145559,106.8466875206,2026-04-01 14:00:00,25,82,5.8,Hujan Sedang,10.5,Sukabumi - Nyalindung,1
+Jawa Barat,Sukabumi,Cicantayan,Cicantayan,-6.9261145559,106.8466875206,2026-04-01 17:00:00,22,96,2.3,Hujan Ringan,3.2,Sukabumi - Nyalindung,1
+Jawa Barat,Sukabumi,Cicantayan,Cicantayan,-6.9261145559,106.8466875206,2026-04-01 20:00:00,22,94,0.0,Berawan,3.1,Sukabumi - Nyalindung,1
+Jawa Barat,Sukabumi,Cicantayan,Cicantayan,-6.9261145559,106.8466875206,2026-04-01 23:00:00,21,94,0.5,Berawan,4.3,Sukabumi - Nyalindung,1
+Jawa Barat,Sukabumi,Cicantayan,Cicantayan,-6.9261145559,106.8466875206,2026-04-02 02:00:00,21,97,0.3,Cerah Berawan,0.9,Sukabumi - Nyalindung,1
+Jawa Barat,Sukabumi,Cicantayan,Cicantayan,-6.9261145559,106.8466875206,2026-04-02 05:00:00,21,93,0.1,Berawan,5.5,Sukabumi - Nyalindung,1
+Jawa Barat,Sukabumi,Cicantayan,Cicantayan,-6.9261145559,106.8466875206,2026-04-02 08:00:00,26,80,1.1,Hujan Ringan,5.5,Sukabumi - Nyalindung,1
+Jawa Barat,Sukabumi,Cicantayan,Cicantayan,-6.9261145559,106.8466875206,2026-04-02 11:00:00,28,68,1.1,Hujan Ringan,10.6,Sukabumi - Nyalindung,1
+Jawa Barat,Sukabumi,Cicantayan,Cicantayan,-6.9261145559,106.8466875206,2026-04-02 14:00:00,26,79,1.3,Hujan Ringan,10.6,Sukabumi - Nyalindung,1
+Jawa Barat,Sukabumi,Cicantayan,Cicantayan,-6.9261145559,106.8466875206,2026-04-02 17:00:00,23,95,1.3,Hujan Ringan,0.3,Sukabumi - Nyalindung,1
+Jawa Barat,Sukabumi,Cicantayan,Cicantayan,-6.9261145559,106.8466875206,2026-04-02 20:00:00,22,93,0.0,Berawan,0.3,Sukabumi - Nyalindung,1
+Jawa Barat,Sukabumi,Cicantayan,Cicantayan,-6.9261145559,106.8466875206,2026-04-02 23:00:00,21,94,0.0,Berawan,3.7,Sukabumi - Nyalindung,1
+Sumatera Utara,Pakpak Bharat,Siempat Rube,Siempat Rube Ii,2.5595239838,98.3557283352,2026-03-31 17:00:00,20,97,3.8,Hujan Ringan,3.3,Tapanuli Tengah - Barus,1
+Sumatera Utara,Pakpak Bharat,Siempat Rube,Siempat Rube Ii,2.5595239838,98.3557283352,2026-03-31 20:00:00,19,96,0.0,Berawan,3.4,Tapanuli Tengah - Barus,1
+Sumatera Utara,Pakpak Bharat,Siempat Rube,Siempat Rube Ii,2.5595239838,98.3557283352,2026-03-31 23:00:00,18,94,0.1,Berawan,2.4,Tapanuli Tengah - Barus,1
+Sumatera Utara,Pakpak Bharat,Siempat Rube,Siempat Rube Ii,2.5595239838,98.3557283352,2026-04-01 02:00:00,17,97,0.0,Berawan,2.4,Tapanuli Tengah - Barus,1
+Sumatera Utara,Pakpak Bharat,Siempat Rube,Siempat Rube Ii,2.5595239838,98.3557283352,2026-04-01 05:00:00,17,96,0.0,Berawan,5.0,Tapanuli Tengah - Barus,1
+Sumatera Utara,Pakpak Bharat,Siempat Rube,Siempat Rube Ii,2.5595239838,98.3557283352,2026-04-01 08:00:00,22,89,0.0,Cerah,0.9,Tapanuli Tengah - Barus,1
+Sumatera Utara,Pakpak Bharat,Siempat Rube,Siempat Rube Ii,2.5595239838,98.3557283352,2026-04-01 11:00:00,23,84,0.0,Berawan,5.7,Tapanuli Tengah - Barus,1
+Sumatera Utara,Pakpak Bharat,Siempat Rube,Siempat Rube Ii,2.5595239838,98.3557283352,2026-04-01 14:00:00,21,89,0.4,Berawan,5.2,Tapanuli Tengah - Barus,1
+Sumatera Utara,Pakpak Bharat,Siempat Rube,Siempat Rube Ii,2.5595239838,98.3557283352,2026-04-01 17:00:00,20,96,0.2,Berawan,4.5,Tapanuli Tengah - Barus,1
+Sumatera Utara,Pakpak Bharat,Siempat Rube,Siempat Rube Ii,2.5595239838,98.3557283352,2026-04-01 20:00:00,19,96,0.0,Berawan,3.7,Tapanuli Tengah - Barus,1
+Sumatera Utara,Pakpak Bharat,Siempat Rube,Siempat Rube Ii,2.5595239838,98.3557283352,2026-04-01 23:00:00,18,96,0.0,Berawan,2.3,Tapanuli Tengah - Barus,1
+Sumatera Utara,Pakpak Bharat,Siempat Rube,Siempat Rube Ii,2.5595239838,98.3557283352,2026-04-02 02:00:00,17,98,0.0,Cerah Berawan,3.9,Tapanuli Tengah - Barus,1
+Sumatera Utara,Pakpak Bharat,Siempat Rube,Siempat Rube Ii,2.5595239838,98.3557283352,2026-04-02 05:00:00,16,98,0.0,Cerah,4.1,Tapanuli Tengah - Barus,1
+Sumatera Utara,Pakpak Bharat,Siempat Rube,Siempat Rube Ii,2.5595239838,98.3557283352,2026-04-02 08:00:00,22,84,1.2,Hujan Ringan,4.1,Tapanuli Tengah - Barus,1
+Sumatera Utara,Pakpak Bharat,Siempat Rube,Siempat Rube Ii,2.5595239838,98.3557283352,2026-04-02 11:00:00,25,68,1.2,Hujan Ringan,3.2,Tapanuli Tengah - Barus,1
+Sumatera Utara,Pakpak Bharat,Siempat Rube,Siempat Rube Ii,2.5595239838,98.3557283352,2026-04-02 14:00:00,22,88,1.9,Hujan Ringan,3.2,Tapanuli Tengah - Barus,1
+Sumatera Utara,Pakpak Bharat,Siempat Rube,Siempat Rube Ii,2.5595239838,98.3557283352,2026-04-02 17:00:00,21,97,1.9,Hujan Ringan,1.7,Tapanuli Tengah - Barus,1
+Sumatera Utara,Pakpak Bharat,Siempat Rube,Siempat Rube Ii,2.5595239838,98.3557283352,2026-04-02 20:00:00,19,99,0.1,Udara Kabur,1.7,Tapanuli Tengah - Barus,1
+Sumatera Utara,Pakpak Bharat,Siempat Rube,Siempat Rube Ii,2.5595239838,98.3557283352,2026-04-02 23:00:00,18,99,0.1,Udara Kabur,5.7,Tapanuli Tengah - Barus,1
+Sumatera Utara,Pakpak Bharat,Salak,Salak I,2.5517105591,98.320956184,2026-03-31 17:00:00,20,97,3.7,Hujan Ringan,3.0,Tapanuli Tengah - Pinangsori,1
+Sumatera Utara,Pakpak Bharat,Salak,Salak I,2.5517105591,98.320956184,2026-03-31 20:00:00,19,95,0.0,Berawan,1.6,Tapanuli Tengah - Pinangsori,1
+Sumatera Utara,Pakpak Bharat,Salak,Salak I,2.5517105591,98.320956184,2026-03-31 23:00:00,19,94,0.1,Berawan,0.7,Tapanuli Tengah - Pinangsori,1
+Sumatera Utara,Pakpak Bharat,Salak,Salak I,2.5517105591,98.320956184,2026-04-01 02:00:00,18,97,0.0,Berawan,0.7,Tapanuli Tengah - Pinangsori,1
+Sumatera Utara,Pakpak Bharat,Salak,Salak I,2.5517105591,98.320956184,2026-04-01 05:00:00,18,95,0.0,Berawan,3.5,Tapanuli Tengah - Pinangsori,1
+Sumatera Utara,Pakpak Bharat,Salak,Salak I,2.5517105591,98.320956184,2026-04-01 08:00:00,22,88,0.0,Cerah,2.4,Tapanuli Tengah - Pinangsori,1
+Sumatera Utara,Pakpak Bharat,Salak,Salak I,2.5517105591,98.320956184,2026-04-01 11:00:00,23,85,1.1,Hujan Ringan,4.1,Tapanuli Tengah - Pinangsori,1
+Sumatera Utara,Pakpak Bharat,Salak,Salak I,2.5517105591,98.320956184,2026-04-01 14:00:00,22,91,0.3,Berawan,3.3,Tapanuli Tengah - Pinangsori,1
+Sumatera Utara,Pakpak Bharat,Salak,Salak I,2.5517105591,98.320956184,2026-04-01 17:00:00,21,97,0.2,Berawan,2.6,Tapanuli Tengah - Pinangsori,1
+Sumatera Utara,Pakpak Bharat,Salak,Salak I,2.5517105591,98.320956184,2026-04-01 20:00:00,20,96,0.0,Berawan,3.5,Tapanuli Tengah - Pinangsori,1
+Sumatera Utara,Pakpak Bharat,Salak,Salak I,2.5517105591,98.320956184,2026-04-01 23:00:00,18,95,0.0,Berawan,1.3,Tapanuli Tengah - Pinangsori,1
+Sumatera Utara,Pakpak Bharat,Salak,Salak I,2.5517105591,98.320956184,2026-04-02 02:00:00,17,98,0.0,Cerah Berawan,1.2,Tapanuli Tengah - Pinangsori,1
+Sumatera Utara,Pakpak Bharat,Salak,Salak I,2.5517105591,98.320956184,2026-04-02 05:00:00,17,97,0.0,Cerah,4.5,Tapanuli Tengah - Pinangsori,1
+Sumatera Utara,Pakpak Bharat,Salak,Salak I,2.5517105591,98.320956184,2026-04-02 08:00:00,23,85,1.2,Hujan Ringan,4.5,Tapanuli Tengah - Pinangsori,1
+Sumatera Utara,Pakpak Bharat,Salak,Salak I,2.5517105591,98.320956184,2026-04-02 11:00:00,26,69,1.2,Hujan Ringan,8.3,Tapanuli Tengah - Pinangsori,1
+Sumatera Utara,Pakpak Bharat,Salak,Salak I,2.5517105591,98.320956184,2026-04-02 14:00:00,22,90,1.9,Hujan Ringan,8.3,Tapanuli Tengah - Pinangsori,1
+Sumatera Utara,Pakpak Bharat,Salak,Salak I,2.5517105591,98.320956184,2026-04-02 17:00:00,21,97,1.9,Hujan Ringan,3.0,Tapanuli Tengah - Pinangsori,1
+Sumatera Utara,Pakpak Bharat,Salak,Salak I,2.5517105591,98.320956184,2026-04-02 20:00:00,20,99,0.2,Udara Kabur,3.0,Tapanuli Tengah - Pinangsori,1
+Sumatera Utara,Pakpak Bharat,Salak,Salak I,2.5517105591,98.320956184,2026-04-02 23:00:00,19,98,0.2,Udara Kabur,4.3,Tapanuli Tengah - Pinangsori,1
+Jawa Barat,Tasikmalaya,Karangjaya,Sirnajaya,-7.4581062408,108.4057198752,2026-03-31 17:00:00,24,93,0.5,Berawan,1.6,Tasikmalaya - Cipatujah,1
+Jawa Barat,Tasikmalaya,Karangjaya,Sirnajaya,-7.4581062408,108.4057198752,2026-03-31 20:00:00,23,93,0.0,Berawan,2.8,Tasikmalaya - Cipatujah,1
+Jawa Barat,Tasikmalaya,Karangjaya,Sirnajaya,-7.4581062408,108.4057198752,2026-03-31 23:00:00,22,95,0.0,Cerah,1.8,Tasikmalaya - Cipatujah,1
+Jawa Barat,Tasikmalaya,Karangjaya,Sirnajaya,-7.4581062408,108.4057198752,2026-04-01 02:00:00,22,97,0.0,Cerah,1.2,Tasikmalaya - Cipatujah,1
+Jawa Barat,Tasikmalaya,Karangjaya,Sirnajaya,-7.4581062408,108.4057198752,2026-04-01 05:00:00,22,96,0.0,Cerah,1.7,Tasikmalaya - Cipatujah,1
+Jawa Barat,Tasikmalaya,Karangjaya,Sirnajaya,-7.4581062408,108.4057198752,2026-04-01 08:00:00,26,82,0.0,Cerah,3.9,Tasikmalaya - Cipatujah,1
+Jawa Barat,Tasikmalaya,Karangjaya,Sirnajaya,-7.4581062408,108.4057198752,2026-04-01 11:00:00,29,70,3.6,Hujan Ringan,13.7,Tasikmalaya - Cipatujah,1
+Jawa Barat,Tasikmalaya,Karangjaya,Sirnajaya,-7.4581062408,108.4057198752,2026-04-01 14:00:00,24,94,6.8,Hujan Sedang,9.3,Tasikmalaya - Cipatujah,1
+Jawa Barat,Tasikmalaya,Karangjaya,Sirnajaya,-7.4581062408,108.4057198752,2026-04-01 17:00:00,23,97,0.1,Berawan,2.5,Tasikmalaya - Cipatujah,1
+Jawa Barat,Tasikmalaya,Karangjaya,Sirnajaya,-7.4581062408,108.4057198752,2026-04-01 20:00:00,22,99,0.0,Berawan,3.0,Tasikmalaya - Cipatujah,1
+Jawa Barat,Tasikmalaya,Karangjaya,Sirnajaya,-7.4581062408,108.4057198752,2026-04-01 23:00:00,22,99,0.0,Berawan,0.8,Tasikmalaya - Cipatujah,1
+Jawa Barat,Tasikmalaya,Karangjaya,Sirnajaya,-7.4581062408,108.4057198752,2026-04-02 02:00:00,22,99,0.0,Berawan,1.4,Tasikmalaya - Cipatujah,1
+Jawa Barat,Tasikmalaya,Karangjaya,Sirnajaya,-7.4581062408,108.4057198752,2026-04-02 05:00:00,22,98,0.0,Berawan,5.7,Tasikmalaya - Cipatujah,1
+Jawa Barat,Tasikmalaya,Karangjaya,Sirnajaya,-7.4581062408,108.4057198752,2026-04-02 08:00:00,25,89,1.1,Hujan Ringan,5.7,Tasikmalaya - Cipatujah,1
+Jawa Barat,Tasikmalaya,Karangjaya,Sirnajaya,-7.4581062408,108.4057198752,2026-04-02 11:00:00,28,76,1.1,Hujan Ringan,9.9,Tasikmalaya - Cipatujah,1
+Jawa Barat,Tasikmalaya,Karangjaya,Sirnajaya,-7.4581062408,108.4057198752,2026-04-02 14:00:00,25,90,1.6,Hujan Ringan,9.9,Tasikmalaya - Cipatujah,1
+Jawa Barat,Tasikmalaya,Karangjaya,Sirnajaya,-7.4581062408,108.4057198752,2026-04-02 17:00:00,23,96,1.6,Hujan Ringan,2.4,Tasikmalaya - Cipatujah,1
+Jawa Barat,Tasikmalaya,Karangjaya,Sirnajaya,-7.4581062408,108.4057198752,2026-04-02 20:00:00,22,97,0.0,Berawan,2.4,Tasikmalaya - Cipatujah,1
+Jawa Barat,Tasikmalaya,Karangjaya,Sirnajaya,-7.4581062408,108.4057198752,2026-04-02 23:00:00,23,98,0.0,Berawan,1.7,Tasikmalaya - Cipatujah,1
+Jawa Barat,Tasikmalaya,Manonjaya,Cihaur,-7.3819687576,108.3280173088,2026-03-31 17:00:00,24,92,0.6,Berawan,2.8,Tasikmalaya - Karangnunggal,1
+Jawa Barat,Tasikmalaya,Manonjaya,Cihaur,-7.3819687576,108.3280173088,2026-03-31 20:00:00,23,96,0.0,Berawan,2.5,Tasikmalaya - Karangnunggal,1
+Jawa Barat,Tasikmalaya,Manonjaya,Cihaur,-7.3819687576,108.3280173088,2026-03-31 23:00:00,22,98,0.0,Cerah,0.8,Tasikmalaya - Karangnunggal,1
+Jawa Barat,Tasikmalaya,Manonjaya,Cihaur,-7.3819687576,108.3280173088,2026-04-01 02:00:00,21,99,0.0,Cerah Berawan,0.5,Tasikmalaya - Karangnunggal,1
+Jawa Barat,Tasikmalaya,Manonjaya,Cihaur,-7.3819687576,108.3280173088,2026-04-01 05:00:00,21,99,0.0,Cerah Berawan,1.7,Tasikmalaya - Karangnunggal,1
+Jawa Barat,Tasikmalaya,Manonjaya,Cihaur,-7.3819687576,108.3280173088,2026-04-01 08:00:00,27,78,0.0,Cerah,3.8,Tasikmalaya - Karangnunggal,1
+Jawa Barat,Tasikmalaya,Manonjaya,Cihaur,-7.3819687576,108.3280173088,2026-04-01 11:00:00,30,65,3.7,Hujan Ringan,19.3,Tasikmalaya - Karangnunggal,1
+Jawa Barat,Tasikmalaya,Manonjaya,Cihaur,-7.3819687576,108.3280173088,2026-04-01 14:00:00,24,88,7.5,Hujan Petir,7.8,Tasikmalaya - Karangnunggal,1
+Jawa Barat,Tasikmalaya,Manonjaya,Cihaur,-7.3819687576,108.3280173088,2026-04-01 17:00:00,23,98,0.2,Berawan,1.2,Tasikmalaya - Karangnunggal,1
+Jawa Barat,Tasikmalaya,Manonjaya,Cihaur,-7.3819687576,108.3280173088,2026-04-01 20:00:00,22,99,0.0,Berawan,2.0,Tasikmalaya - Karangnunggal,1
+Jawa Barat,Tasikmalaya,Manonjaya,Cihaur,-7.3819687576,108.3280173088,2026-04-01 23:00:00,22,99,0.0,Berawan,0.5,Tasikmalaya - Karangnunggal,1
+Jawa Barat,Tasikmalaya,Manonjaya,Cihaur,-7.3819687576,108.3280173088,2026-04-02 02:00:00,21,99,0.0,Berawan,2.4,Tasikmalaya - Karangnunggal,1
+Jawa Barat,Tasikmalaya,Manonjaya,Cihaur,-7.3819687576,108.3280173088,2026-04-02 05:00:00,21,99,0.0,Berawan,1.6,Tasikmalaya - Karangnunggal,1
+Jawa Barat,Tasikmalaya,Manonjaya,Cihaur,-7.3819687576,108.3280173088,2026-04-02 08:00:00,26,83,1.1,Hujan Ringan,1.6,Tasikmalaya - Karangnunggal,1
+Jawa Barat,Tasikmalaya,Manonjaya,Cihaur,-7.3819687576,108.3280173088,2026-04-02 11:00:00,29,71,1.1,Hujan Ringan,10.2,Tasikmalaya - Karangnunggal,1
+Jawa Barat,Tasikmalaya,Manonjaya,Cihaur,-7.3819687576,108.3280173088,2026-04-02 14:00:00,26,83,1.6,Hujan Ringan,10.2,Tasikmalaya - Karangnunggal,1
+Jawa Barat,Tasikmalaya,Manonjaya,Cihaur,-7.3819687576,108.3280173088,2026-04-02 17:00:00,24,95,1.6,Hujan Ringan,0.4,Tasikmalaya - Karangnunggal,1
+Jawa Barat,Tasikmalaya,Manonjaya,Cihaur,-7.3819687576,108.3280173088,2026-04-02 20:00:00,23,99,0.0,Berawan,0.4,Tasikmalaya - Karangnunggal,1
+Jawa Barat,Tasikmalaya,Manonjaya,Cihaur,-7.3819687576,108.3280173088,2026-04-02 23:00:00,23,98,0.0,Berawan,0.3,Tasikmalaya - Karangnunggal,1

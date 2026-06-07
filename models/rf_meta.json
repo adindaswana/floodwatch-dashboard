@@ -1,0 +1,30 @@
+{
+  "fitur_cols": [
+    "avg_rainfall",
+    "max_rainfall",
+    "avg_temperature",
+    "elevation",
+    "ndvi",
+    "slope",
+    "soil_moisture",
+    "month",
+    "musim_encoded",
+    "hujan_lag1",
+    "hujan_lag3",
+    "hujan_lag7",
+    "rolling_avg_3",
+    "rolling_avg_7",
+    "rolling_avg_14",
+    "lc_built_up",
+    "lc_tree_cover",
+    "lc_cropland",
+    "lc_permanent_water_bodies",
+    "lc_unknown",
+    "risiko_index"
+  ],
+  "accuracy": 0.9992,
+  "f1_weighted": 0.9992,
+  "f1_macro": 0.9982,
+  "cv_mean": 0.9994,
+  "cv_std": 0.0004
+}

@@ -1,0 +1,91 @@
+provinsi,kota_kabupaten,kecamatan,kelurahan_desa,latitude,longitude,tanggal,label_banjir,suhu_celcius,kelembapan_persen,curah_hujan_mm,kecepatan_angin_kmh,kondisi_cuaca,tahun,bulan,musim
+Aceh,Aceh Utara,Dewantara,Keude Krueng Geukueh,5.246,97.025,2026-03-31,True,25.0,91.667,3.2,4.6,Berawan,2026,3,Hujan
+Aceh,Aceh Utara,Dewantara,Keude Krueng Geukueh,5.246,97.025,2026-04-01,True,26.25,86.375,2.5,4.812,Cerah Berawan,2026,4,Peralihan
+Aceh,Aceh Utara,Dewantara,Keude Krueng Geukueh,5.246,97.025,2026-04-02,True,27.125,84.75,0.5,5.4,Berawan,2026,4,Peralihan
+Aceh,Aceh Utara,Seunuddon,Tanjong Pineung,5.17,97.432,2026-03-31,True,25.0,92.333,4.4,6.667,Hujan Ringan,2026,3,Hujan
+Aceh,Aceh Utara,Seunuddon,Tanjong Pineung,5.17,97.432,2026-04-01,True,26.5,86.75,0.8,5.637,Berawan,2026,4,Peralihan
+Aceh,Aceh Utara,Seunuddon,Tanjong Pineung,5.17,97.432,2026-04-02,True,27.25,84.375,0.3,9.375,Berawan,2026,4,Peralihan
+Bali,Buleleng,Gerokgak,Sumberklampok,-8.15,114.494,2026-03-31,False,27.5,75.5,0.0,1.85,Berawan,2026,3,Hujan
+Bali,Buleleng,Gerokgak,Sumberklampok,-8.15,114.494,2026-04-01,False,27.375,77.25,0.0,5.225,Cerah,2026,4,Peralihan
+Bali,Buleleng,Gerokgak,Sumberklampok,-8.15,114.494,2026-04-02,False,26.875,80.875,0.8,7.012,Cerah,2026,4,Peralihan
+Bali,Karangasem,Manggis,Gegelang,-8.495,115.476,2026-03-31,False,24.0,89.0,0.0,7.95,Berawan,2026,3,Hujan
+Bali,Karangasem,Manggis,Gegelang,-8.495,115.476,2026-04-01,False,25.375,81.5,0.0,7.688,Cerah,2026,4,Peralihan
+Bali,Karangasem,Manggis,Gegelang,-8.495,115.476,2026-04-02,False,24.75,87.25,2.6,4.638,Berawan,2026,4,Peralihan
+Daerah Istimewa Yogyakarta,Gunungkidul,Patuk,Bunder,-7.887,110.533,2026-03-31,False,23.667,93.667,0.7,6.6,Berawan,2026,3,Hujan
+Daerah Istimewa Yogyakarta,Gunungkidul,Patuk,Bunder,-7.887,110.533,2026-04-01,False,24.625,88.875,11.9,4.762,Cerah Berawan,2026,4,Peralihan
+Daerah Istimewa Yogyakarta,Gunungkidul,Patuk,Bunder,-7.887,110.533,2026-04-02,False,25.0,89.125,7.6,4.125,Hujan Ringan,2026,4,Peralihan
+Daerah Istimewa Yogyakarta,Gunungkidul,Tepus,Giripanggung,-8.105,110.69,2026-03-31,False,24.0,94.0,0.1,3.367,Berawan,2026,3,Hujan
+Daerah Istimewa Yogyakarta,Gunungkidul,Tepus,Giripanggung,-8.105,110.69,2026-04-01,False,24.625,91.0,10.4,6.825,Hujan Ringan,2026,4,Peralihan
+Daerah Istimewa Yogyakarta,Gunungkidul,Tepus,Giripanggung,-8.105,110.69,2026-04-02,False,24.625,90.75,7.4,6.862,Hujan Ringan,2026,4,Peralihan
+Daerah Istimewa Yogyakarta,Gunungkidul,Wonosari,Wonosari,-7.96,110.608,2026-03-31,False,24.333,92.0,0.4,6.233,Berawan,2026,3,Hujan
+Daerah Istimewa Yogyakarta,Gunungkidul,Wonosari,Wonosari,-7.96,110.608,2026-04-01,False,24.75,88.875,13.7,4.55,Cerah,2026,4,Peralihan
+Daerah Istimewa Yogyakarta,Gunungkidul,Wonosari,Wonosari,-7.96,110.608,2026-04-02,False,24.5,90.125,8.0,4.7,Hujan Ringan,2026,4,Peralihan
+Jawa Barat,Cianjur,Haurwangi,Haurwangi,-6.832,107.313,2026-03-31,True,22.667,94.0,1.3,1.233,Berawan,2026,3,Hujan
+Jawa Barat,Cianjur,Haurwangi,Haurwangi,-6.832,107.313,2026-04-01,True,23.75,87.0,14.5,4.3,Cerah,2026,4,Peralihan
+Jawa Barat,Cianjur,Haurwangi,Haurwangi,-6.832,107.313,2026-04-02,True,24.625,85.625,4.8,5.05,Hujan Ringan,2026,4,Peralihan
+Jawa Barat,Cianjur,Sukaluyu,Sindangraja,-6.779,107.246,2026-03-31,True,24.0,91.667,0.8,4.233,Berawan,2026,3,Hujan
+Jawa Barat,Cianjur,Sukaluyu,Sindangraja,-6.779,107.246,2026-04-01,True,24.125,87.75,14.8,4.525,Cerah,2026,4,Peralihan
+Jawa Barat,Cianjur,Sukaluyu,Sindangraja,-6.779,107.246,2026-04-02,True,25.0,84.125,4.6,4.55,Hujan Ringan,2026,4,Peralihan
+Jawa Barat,Garut,Cibatu,Sukalilah,-7.065,108.002,2026-03-31,True,19.667,98.0,0.1,1.467,Berawan,2026,3,Hujan
+Jawa Barat,Garut,Cibatu,Sukalilah,-7.065,108.002,2026-04-01,True,21.25,89.5,10.1,3.662,Berawan,2026,4,Peralihan
+Jawa Barat,Garut,Cibatu,Sukalilah,-7.065,108.002,2026-04-02,True,21.5,88.75,6.2,5.275,Hujan Ringan,2026,4,Peralihan
+Jawa Barat,Garut,Cilawu,Karyamekar,-7.285,107.918,2026-03-31,True,19.0,96.0,0.1,1.833,Cerah,2026,3,Hujan
+Jawa Barat,Garut,Cilawu,Karyamekar,-7.285,107.918,2026-04-01,True,20.0,89.375,11.4,4.188,Cerah,2026,4,Peralihan
+Jawa Barat,Garut,Cilawu,Karyamekar,-7.285,107.918,2026-04-02,True,20.25,89.625,6.6,3.625,Hujan Ringan,2026,4,Peralihan
+Jawa Barat,Sukabumi,Cicantayan,Cicantayan,-6.926,106.847,2026-03-31,True,22.0,93.333,1.0,3.467,Berawan,2026,3,Hujan
+Jawa Barat,Sukabumi,Cicantayan,Cicantayan,-6.926,106.847,2026-04-01,True,22.875,87.25,12.1,7.125,Cerah,2026,4,Peralihan
+Jawa Barat,Sukabumi,Cicantayan,Cicantayan,-6.926,106.847,2026-04-02,True,23.5,87.375,5.2,4.675,Hujan Ringan,2026,4,Peralihan
+Jawa Barat,Sukabumi,Pabuaran,Pabuaran,-7.214,106.829,2026-03-31,True,22.667,95.667,1.4,2.433,Berawan,2026,3,Hujan
+Jawa Barat,Sukabumi,Pabuaran,Pabuaran,-7.214,106.829,2026-04-01,True,23.25,90.375,12.6,4.75,Cerah,2026,4,Peralihan
+Jawa Barat,Sukabumi,Pabuaran,Pabuaran,-7.214,106.829,2026-04-02,True,23.75,88.875,5.2,4.6,Hujan Ringan,2026,4,Peralihan
+Jawa Barat,Tasikmalaya,Karangjaya,Sirnajaya,-7.458,108.406,2026-03-31,True,23.0,93.667,0.5,2.067,Berawan,2026,3,Hujan
+Jawa Barat,Tasikmalaya,Karangjaya,Sirnajaya,-7.458,108.406,2026-04-01,True,23.75,91.75,10.5,4.512,Berawan,2026,4,Peralihan
+Jawa Barat,Tasikmalaya,Karangjaya,Sirnajaya,-7.458,108.406,2026-04-02,True,23.75,92.875,5.4,4.888,Berawan,2026,4,Peralihan
+Jawa Barat,Tasikmalaya,Manonjaya,Cihaur,-7.382,108.328,2026-03-31,True,23.0,95.333,0.6,2.033,Berawan,2026,3,Hujan
+Jawa Barat,Tasikmalaya,Manonjaya,Cihaur,-7.382,108.328,2026-04-01,True,23.75,90.625,11.4,4.6,Berawan,2026,4,Peralihan
+Jawa Barat,Tasikmalaya,Manonjaya,Cihaur,-7.382,108.328,2026-04-02,True,24.125,90.875,5.4,3.387,Berawan,2026,4,Peralihan
+Jawa Tengah,Banjarnegara,Susukan,Berta,-7.501,109.442,2026-03-31,False,24.0,93.0,2.2,1.167,Berawan,2026,3,Hujan
+Jawa Tengah,Banjarnegara,Susukan,Berta,-7.501,109.442,2026-04-01,False,24.75,89.75,15.8,1.875,Berawan,2026,4,Peralihan
+Jawa Tengah,Banjarnegara,Susukan,Berta,-7.501,109.442,2026-04-02,False,24.75,90.25,7.2,2.35,Berawan,2026,4,Peralihan
+Jawa Tengah,Wonosobo,Wadaslintang,Kaligowong,-7.59,109.764,2026-03-31,False,23.0,97.333,0.0,2.3,Berawan,2026,3,Hujan
+Jawa Tengah,Wonosobo,Wadaslintang,Kaligowong,-7.59,109.764,2026-04-01,False,23.5,92.125,15.7,2.912,Berawan,2026,4,Peralihan
+Jawa Tengah,Wonosobo,Wadaslintang,Kaligowong,-7.59,109.764,2026-04-02,False,24.125,91.25,6.2,4.025,Berawan,2026,4,Peralihan
+Jawa Timur,Lumajang,Pasrujambe,Pasrujambe,-8.086,112.971,2026-03-31,True,17.667,97.0,1.7,1.333,Berawan,2026,3,Hujan
+Jawa Timur,Lumajang,Pasrujambe,Pasrujambe,-8.086,112.971,2026-04-01,True,18.5,87.25,1.4,5.012,Cerah,2026,4,Peralihan
+Jawa Timur,Lumajang,Pasrujambe,Pasrujambe,-8.086,112.971,2026-04-02,True,18.25,92.875,2.4,5.775,Berawan,2026,4,Peralihan
+Jawa Timur,Lumajang,Tekung,Wonogriyo,-8.206,113.265,2026-03-31,True,23.0,92.0,0.3,5.1,Berawan,2026,3,Hujan
+Jawa Timur,Lumajang,Tekung,Wonogriyo,-8.206,113.265,2026-04-01,True,25.625,87.375,1.6,5.312,Cerah,2026,4,Peralihan
+Jawa Timur,Lumajang,Tekung,Wonogriyo,-8.206,113.265,2026-04-02,True,25.375,91.125,2.6,6.35,Berawan,2026,4,Peralihan
+Jawa Timur,Lumajang,Yosowilangun,Darungan,-8.257,113.252,2026-03-31,True,24.0,89.333,0.6,6.033,Berawan,2026,3,Hujan
+Jawa Timur,Lumajang,Yosowilangun,Darungan,-8.257,113.252,2026-04-01,True,25.75,86.625,2.3,6.875,Cerah,2026,4,Peralihan
+Jawa Timur,Lumajang,Yosowilangun,Darungan,-8.257,113.252,2026-04-02,True,25.75,89.625,2.4,6.775,Berawan,2026,4,Peralihan
+Jawa Timur,Pasuruan,Nguling,Sanganom,-7.776,113.047,2026-03-31,False,24.333,86.0,0.0,3.233,Berawan,2026,3,Hujan
+Jawa Timur,Pasuruan,Nguling,Sanganom,-7.776,113.047,2026-04-01,False,25.875,78.0,2.1,5.062,Cerah,2026,4,Peralihan
+Jawa Timur,Pasuruan,Nguling,Sanganom,-7.776,113.047,2026-04-02,False,25.875,83.25,3.4,6.338,Berawan,2026,4,Peralihan
+Jawa Timur,Probolinggo,Gading,Batur,-7.88,113.567,2026-03-31,False,19.0,95.0,0.0,3.967,Berawan,2026,3,Hujan
+Jawa Timur,Probolinggo,Gading,Batur,-7.88,113.567,2026-04-01,False,20.75,85.375,2.9,4.55,Cerah,2026,4,Peralihan
+Jawa Timur,Probolinggo,Gading,Batur,-7.88,113.567,2026-04-02,False,20.5,93.0,4.8,6.125,Udara Kabur,2026,4,Peralihan
+Nusa Tenggara Timur,Kupang,Amfoang Utara,Afoan,-9.536,123.811,2026-03-31,False,25.0,86.0,0.4,3.3,Cerah,2026,3,Hujan
+Nusa Tenggara Timur,Kupang,Amfoang Utara,Afoan,-9.536,123.811,2026-04-01,False,26.625,80.25,5.1,4.525,Cerah,2026,4,Peralihan
+Nusa Tenggara Timur,Kupang,Amfoang Utara,Afoan,-9.536,123.811,2026-04-02,False,26.25,81.0,2.4,4.938,Cerah,2026,4,Peralihan
+Sulawesi Barat,Pasangkayu,Dapurang,Dapurang,-1.733,119.358,2026-03-31,True,27.5,77.0,0.0,3.95,Cerah,2026,3,Hujan
+Sulawesi Barat,Pasangkayu,Dapurang,Dapurang,-1.733,119.358,2026-04-01,True,27.75,77.875,1.9,4.288,Cerah,2026,4,Peralihan
+Sulawesi Barat,Pasangkayu,Dapurang,Dapurang,-1.733,119.358,2026-04-02,True,26.0,87.75,7.4,3.575,Cerah,2026,4,Peralihan
+Sulawesi Selatan,Maros,Tompobulu,Tompobulu,-5.137,119.699,2026-03-31,True,23.5,94.0,0.0,1.15,Berawan,2026,3,Hujan
+Sulawesi Selatan,Maros,Tompobulu,Tompobulu,-5.137,119.699,2026-04-01,True,24.75,91.0,5.5,3.312,Berawan,2026,4,Peralihan
+Sulawesi Selatan,Maros,Tompobulu,Tompobulu,-5.137,119.699,2026-04-02,True,25.0,91.75,5.8,3.325,Berawan,2026,4,Peralihan
+Sumatera Barat,Agam,Ampek Angkek,Batu Taba,-0.317,100.416,2026-03-31,True,18.0,96.667,1.9,2.067,Berawan,2026,3,Hujan
+Sumatera Barat,Agam,Ampek Angkek,Batu Taba,-0.317,100.416,2026-04-01,True,19.0,93.0,6.6,5.675,Berawan,2026,4,Peralihan
+Sumatera Barat,Agam,Ampek Angkek,Batu Taba,-0.317,100.416,2026-04-02,True,19.5,92.5,3.2,6.188,Berawan,2026,4,Peralihan
+Sumatera Barat,Agam,Candung,Canduang Koto Laweh,-0.315,100.468,2026-03-31,True,19.0,95.667,1.2,1.567,Cerah Berawan,2026,3,Hujan
+Sumatera Barat,Agam,Candung,Canduang Koto Laweh,-0.315,100.468,2026-04-01,True,19.25,93.25,6.9,3.125,Berawan,2026,4,Peralihan
+Sumatera Barat,Agam,Candung,Canduang Koto Laweh,-0.315,100.468,2026-04-02,True,19.625,93.25,3.2,3.25,Berawan,2026,4,Peralihan
+Sumatera Barat,Kepulauan Mentawai,Sipora Selatan,Bosua,-2.348,99.824,2026-03-31,True,27.0,82.0,1.6,7.333,Berawan,2026,3,Hujan
+Sumatera Barat,Kepulauan Mentawai,Sipora Selatan,Bosua,-2.348,99.824,2026-04-01,True,26.875,83.0,4.2,5.688,Berawan,2026,4,Peralihan
+Sumatera Barat,Kepulauan Mentawai,Sipora Selatan,Bosua,-2.348,99.824,2026-04-02,True,28.25,78.5,0.8,7.7,Berawan,2026,4,Peralihan
+Sumatera Utara,Pakpak Bharat,Salak,Salak I,2.552,98.321,2026-03-31,True,19.333,95.333,3.8,1.767,Berawan,2026,3,Hujan
+Sumatera Utara,Pakpak Bharat,Salak,Salak I,2.552,98.321,2026-04-01,True,20.25,93.0,1.6,2.675,Berawan,2026,4,Peralihan
+Sumatera Utara,Pakpak Bharat,Salak,Salak I,2.552,98.321,2026-04-02,True,20.625,91.625,6.6,4.638,Hujan Ringan,2026,4,Peralihan
+Sumatera Utara,Pakpak Bharat,Siempat Rube,Siempat Rube Ii,2.56,98.356,2026-03-31,True,19.0,95.667,3.9,3.033,Berawan,2026,3,Hujan
+Sumatera Utara,Pakpak Bharat,Siempat Rube,Siempat Rube Ii,2.56,98.356,2026-04-01,True,19.625,92.875,0.6,3.713,Berawan,2026,4,Peralihan
+Sumatera Utara,Pakpak Bharat,Siempat Rube,Siempat Rube Ii,2.56,98.356,2026-04-02,True,20.0,91.375,6.4,3.45,Hujan Ringan,2026,4,Peralihan
