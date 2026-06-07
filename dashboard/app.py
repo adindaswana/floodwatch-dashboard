@@ -881,7 +881,7 @@ def _render_early_warning(df_fitur, df_cuaca):
             return colors.get(val, "")
 
         if "Status Risiko" in hr_display.columns:
-            styled = hr_display.style.applymap(_color_risk, subset=["Status Risiko"])
+            styled = hr_display.style.map(_color_risk, subset=["Status Risiko"])
             st.dataframe(styled, use_container_width=True, hide_index=True, height=400)
         else:
             st.dataframe(hr_display, use_container_width=True, hide_index=True, height=400)
